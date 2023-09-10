@@ -41,25 +41,28 @@ public interface TbStaffRepository extends JpaRepository<TbStaff, Integer>, JpaS
     int sdfz(Integer staffId, @Param("groupId") Long groupId, @Param("isGroup") String isGroup);
 
     /*
-        后端开发人员总数
+        未分组的后端开发人员总数
+        SELECT staff_id FROM tb_staff WHERE role_id = '1' and is_group = '0'
+        从未分组的后端开发人员中随机抽出？个人
+        SELECT staff_id FROM tb_staff WHERE role_id = '1' and is_group='0' order by rand() limit ?;
      */
     @Query(value = "SELECT staff_id FROM tb_staff WHERE role_id = '1' and is_group = '0'", nativeQuery = true)
     List<Integer> countBackend();
 
     /*
-        前端开发人员总数
+        未分组的前端开发人员总数
      */
     @Query(value = "SELECT staff_id FROM tb_staff WHERE role_id = '2' and is_group = '0'", nativeQuery = true)
     List<Integer> countFront();
 
     /*
-        测试人员总数
+        未分组的测试人员总数
      */
     @Query(value = "SELECT staff_id FROM tb_staff WHERE role_id = '3' and is_group = '0'", nativeQuery = true)
     List<Integer> countTest();
 
     /*
-        项目经理人员总数
+        未分组的项目经理人员总数
      */
     @Query(value = "SELECT staff_id FROM tb_staff WHERE role_id = '4' and is_group = '0'", nativeQuery = true)
     List<Integer> countManager();
