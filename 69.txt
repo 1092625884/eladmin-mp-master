@@ -1,0 +1,653 @@
+International Journal of Hospitality Management 90 (2020) 102629
+ContentslistsavailableatScienceDirect
+International Journal of Hospitality Management
+journal homepage: www.elsevier.com/locate/ijhm
+Linking AI quality performance and customer engagement: The moderating
+ff T
+e ect of AI preference
+Catherine Prenticea, Scott Weavenb, IpKin Anthony Wongc,*
+aGriffithBusinessSchool,GriffithUniversity,Australia
+bDepartmentofMarketing,GriffithBusinessSchool,GriffithUniversity,GoldCoast,QLD,4222,Australia
+cSchoolofTourismManagement,SunYat-SenUniversity,TangJiaWang,Xiangzhou,Zhuhai,China
+ARTICLE INFO ABSTRACT
+Keywords: Drawinguponaffordancetheory,thisstudypositionsartificialintelligence(AI)asacommercialserviceinex-
+Artificialintelligence aminingitsinfluenceoncustomerengagementinthehotelcontext.Inparticular,weseektounderstandlinkages
+AIsatisfaction betweencustomerperceptionsofAIservicequality,AIcustomersatisfactionandengagement.Giventhemul-
+AIpreference tiplicity of services offered by service organisations, customersâ preference for AI service is modelled as a
+Servicequality
+moderatorofcustomerperceptionsandattitudestowardsAI.Datawascollectedfromasampleofhotelcus-
+Customerengagement tomersinAustraliawhohadpreviouslyusedAItoolsorservices.Ourresultsrevealasignificantchaineffect
+betweenAIserviceindicators,servicequalityperceptions,AIsatisfaction andcustomerengagement. AIpre-
+ferencehasasignificantmoderationeffectoninformationqualityandsatisfaction.Thesefindingsprovidenew
+insightsintotheconsumerservicesliteratureandhaveimportantimplicationsformarketingpractitioners.
+1. Introduction AI research has centred on technological development and advance-
+ment in IT-related disciplines (Prentice et al., 2019a,b,c). Given its
+Artificial intelligence (AI) refers to computational agents that act, technologicalfocus,therehasbeenaplethoraofresearchinvestigating
+respond or behave intelligently (Poole and Mackworth, 2010). AI is technological acceptance and user (e.g., IT technicians) satisfaction
+manifested in humanoid and non-humanoid forms (e.g., automated over the last decade (e.g., Dwivedi et al., 2019; King and He, 2006;
+services) that can mimic or perform human tasks and solve problems MaranguniÄandGraniÄ,2015;WixomandTodd,2005;WuandChen,
+through learning, analysing and interpreting data (Mellit and 2017). In practice, AI (e.g. robots) is extensively used in customer
+Kalogirou,2008).AIhasevolvedrapidlyfromperformingsimpletasks service to engage customers and enhance the service experience by
+(e.g., Siri) to undertaking more sophisticated social functions such as providing convenience and flexibility (e.g., 24-h automated services;
+recognisingcustomersâemotionsforsubsequentintervention(Prentice concierge robots). Industry practitioners and IT consultants are the
+et al., 2019a). AI can be effectively utilised in reasoning, explaining, mostprominentprotagonistswhopromoteandreinforcetheroleofAI
+modelling,predictingandforecasting. incustomer-centricbusinesses(e.g.,KannanandBernoff,2019;Walch,
+AI as an information technology (IT) innovation has progressively 2019;Walchuk,2019).Researchinthisareaisratherlimited,whichin
+infiltrated the commercial world to facilitate internal business opera- part is due to disparate understanding and conceptualisation of AI.
+tionsfortheorganisation andexternaltransactionswithcustomersin FromanITperspective,AIreferstointelligenceexhibitedbymachines
+both personal and impersonal service encounters (Prentice et al., throughmachinelearningandnaturallanguageprocessing(Russelland
+2019a,b,c). For instance, AI can be used in personnel recruitment by Norvig,2016).Fromthebusinessperspective,AIrepresentstechnolo-
+combiningfacerecognitionandnaturallanguageprocessingtechnolo- gically powered systems or tools that facilitate business operations to
+giesduringinterviews;traininganddevelopmentusingrobotsandvi- achieve cost efficiencies and promote profit maximisation (Prentice
+sual scanning technologies; and salary evaluation through neural net- et al.,2019a,b,c). From auser perspective, AI is aseries oftools that
+workfunctioning(Jiaetal.,2018).AmazonandNetflixroutinelyutilise improve task efficiency (e.g., for employees) and provide added con-
+AI to analyse customer data and customise products for customers venienceandflexibilitytoconsumers(Wirtzetal.,2018).Thesefirm-
+(Walch,2019). level perspectives view AI as a type of commercial service that is en-
+Despiteitsextensiveapplicationacrossorganizationsandindustries, abled by IT, provided by organizations, and utilised by customers to
+âCorrespondingauthor.
+E-mailaddresses:cathyjournalarticles@gmail.com(C.Prentice),s.weaven@griffith.edu.au(S.Weaven),wongipk@mail.sysu.edu.cn(I.A.Wong).
+https://doi.org/10.1016/j.ijhm.2020.102629
+Received6December2019;Receivedinrevisedform12July2020;Accepted12July2020
+0278-4319/ Â© 2020 Elsevier Ltd. All rights reserved.C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+improvethecustomerserviceexperienceandengagecustomers. investigates how customer preferences for AI service influence cus-
+This paper positions AI-powered tools (e.g., concierge robots in tomersatisfactionwithAIservicesandengagementinthehotelsetting.
+hotels, travel enhancers, chatbots) as computer/machine-enabled ser- The nextsection reviewsrelevant literatureinrelation to AI andcus-
+vicesthatcatertocustomersinafashionsimilartoothercommercial tomer engagement, and proposes relationships that link these two
+services(e.g.,employeeservice)andbenefitallinvolvedparties(e.g., areas.Then,theresearchfindings,implicationsandsalientconclusions
+theorganisation, customers) (deKervenoaeletal.,2020).Thesetools arepresented.
+hereafter are referred to as AI services, or (more simply) AI in this
+study. This view accords with affordance theory (Gibson and Nobel, 2. Literaturereview
+1986), which considers environmental objects around an organism
+(e.g.,ananimal,ahuman)asanopportunityforaction(Gibson,2000). 2.1. AIservicequality
+WesuggestthatAIservicescanbesuchobjects.Inparticular,customers
+orserviceprovidersrepresentorganismsthatperceiveAIasanoppor- AI generally embodies machine simulations of human intelligence
+tunity to attain added convenience (for customers) and can provide forperforminghumantasksoperatedthroughmachineordeeplearning
+increasedlevelsofcustomerengagement(fortheprovider).Theaffor- (Russell andNorvig, 2009). Machine learninginlcudes theinterpreta-
+dance theoretical perspective suggests that AI tools have inherent tion and understanding of imputed data which are used for pre-
+meaningthatuserscanunderstand andapplywithout necessarilyun- determinedgoalsandtasks(RussellandNorvig,2009).AIcanacthu-
+derstanding their sophisticated technological underpinning (Jones, manly; and has the ability to learn, react and cooperate like humans
+2003). (Russell and Norvig, 2009). AI has evolved from a narrow con-
+Althoughthetheory originated intheecological literature, theaf- ceptualisation of intelligence centering on the performance of simple
+fordance concept has been widely applied to organisations to under- tasks(e.g.,Siribeingabletosolveproblemsindependently),toartificial
+stand how technologies (e.g., AI) can be utilised to achieve organiza- super intelligence, which is yet to be invented but anticipated to be
+tionaloutcomesincludingoperationalefficiency,customersatisfaction capableofincorporatingmoresophisticatedsocialskillsandcreativity
+andengagement(e.g.,Cabidduetal.,2014;GanguliandRoy,2011).In (Kaplan and Haenlein, 2019). This evolution accords with Wirthâs
+essence, AI-powered tools in service organisations are manifested as (2018)weakAIthatisdesignedtoperformspecifictasks,hybridAIthat
+servicesprovidedtocustomerssuchasthehumanoidrobotâConnieâin can blend multiple solutions and undertake new tasks, and strong AI
+Hiltonhotels,andchatbotsprovidingaround-the-clockmessagingser- thatcandealwithavarietyofmorecomplextasks.Basedonitsfunc-
+vices. These AI-powered tools facilitate business transactions and en- tionality,AIcanbecategorisedintoanalyticalAI,human-inspiredAI,
+hancecustomerexperiences. and (forthcoming) humanized AI (Kaplan and Haenlein, 2019). Ana-
+Viewedasacommercialservice,AImustdemonstrateitseconomic lyticalAIismanifestedincognitiveintelligenceandlearningforfore-
+valueintermsofhowcustomersperceive,value,assessandrespondto castingandpredicting.Human-inspiredAIisdesignedtorecogniseand
+suchservice.Customerperceptionsandassessmentsdetermineservice understand human emotions (facial recognition tools to understand
+quality outcomes. Customer responses are reflective of their attitudes customersâemotions)indecision-making.HumanisedAIwillpossesses
+(e.g.,satisfaction)andbehaviours(purchaseandloyalty),asexplained cognitive,emotional,andsocialintelligencethatcloselyresemblesthat
+byAjzenâs(1985)theoryofplannedbehaviour(TPB).Thistheorylinks of humans. For clarity, these categories can be classified as informa-
+beliefs,attitudes,behaviouralintentionsandbehavioursandhasbeen tionalandsystematicAI.
+extensively applied in various fields including psychology, marketing AI has been incorporated into various types of technologies: for
+and IT (De Groot, Steg, 2007; Liao et al., 2007; Prentice and Kedan, instance, 1) automation, such as robotic process automation, which
+2019). However, TPB has attracted some criticism. Numerous studies differs from IT automation and can be programmed to perform high-
+haveshownthatattitudes(e.g.,satisfaction)canbeasignificantante- volume, repeatable tasks like humans; 2) machine or deep learning,
+cedent of behavioural intentions but an insignificant predictor of be- which enables computers to automate predictive analytics and act
+haviours; nevertheless, objective beliefs such as perception of service without programming, including supervised, unsupervised and re-
+quality often lead to purchase and loyalty behaviours (e.g., Prentice, inforcementlearning;3)machinevision,whichcapturesandanalyses
+2013;Sniehottaetal.,2014a,b).Suchinconsistencymaybeattributed visual information using cameras and digital signal processes such as
+tostudycontexts,researchdesign,orchoicesofbehaviouralindicators human eyesight, which can be used, for example, in signature identi-
+(Sniehottaetal.,2014a,b).TounderstandhowAI,ascommercialser- fication and image analysis; 4) natural language processing (NLP),
+vices provided to customers by service organizations, relates to cus- whichisbasedonmachineleaningandprocesseshumanlanguageviaa
+tomerresponse,thecurrentstudyadoptscustomerengagementasthe computer program including text translation, sentiment analysis and
+outcome variable, as this construct captures multidimensional out- speech recognition (e.g., spam detection which determines a junk or
+comes (affective, cognitive and behavioural) rather than behavioural spammailbasedonthesubjectlineandthetext);5)roboticsthatare
+consequences(Hollebeek,2011;Soetal.,2016). usedtoperformmundanetasksrequiringlow-levelsocialinteractions
+In reality, AI has been used in customer services to engage custo- (e.g., assembling lines in manufacturing); 6) self-driving cars, which
+mers.Forinstance,chatbotsasthefirstpointofcontactcouldidentify automate safe driving using computer vision, image recognition and
+customerneedsandproblemsandtransfercustomerstohumanagents deeplearningcapabilities(BurnsandLaskowski,2018).
+whennecessary.Chatbotssometimesengagecustomersbyprovidinga AIhasbeenappliedacrossvariousfields(BuhalisandLeung,2018;
+positive and consistent level of interaction with customers and con- YuandSchwartz,2006).Forinstance,inhealthcare,AIisusedtoim-
+tinuousservicetopromoteseamlessserviceexperiences(Walch,2019). prove symptoms diagnoses to improve patient outcomes and reduce
+Customer engagement is related to organizational consequences in- costs(Jiangetal.,2017).Ineducation,AIisusedtoautomategrading,
+cluding financial and non-financial outcomes (Pansari and Kumar, track studentsâ progress, and support tutors and students (McArthur
+2017; Prentice et al., 2020; So et al., 2016). Understanding linkages etal.,2005).Infinance,AIisusedtocollectbiodatafortheprovisionof
+betweenAIandcustomerengagementhasimplicationsforoptimising financialadviceforclients(Bahrammirzaee,2010).Inretailing,AIcan
+organizational performance manifested in customer- and firm-related support inventory management (e.g., Amazonâs analytical AI) (Liu
+outcomes(VanDoornetal.,2010;Prenticeetal.,2019b). et al., 2018). And in tourism, AI-powered robots can serve as tour
+Consistentwiththeprecedingdiscussion,thisstudyexamineshow guidestoimprovetouristparticipation(Ivanovetal.,2017).Inhuman
+AIservicesarerelatedtoAIservicequality,customersatisfactionand resource management, AI assists in screening and selecting suitable
+customer engagement. Given that organisations provide multiple ser- candidates(Maduravoyal,2018).AIinserviceorganizationshasfunc-
+vicecomponents(e.g.,servicescape,employeeservice),thestudyalso tioned as part of service offerings provided to customers to facilitate
+2C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+transactions and improve customer experience (Bolton et al., 2018; Jingxue & SooCheong, 2008; Hu and Huang, 2011; Yoon and Uysal,
+Chung et al., 2018). For instance, AI is used in customer relationship 2005). Service quality perceptions are cognitive reactions to the ex-
+management by tracking customer information to customise services perience,whereascustomersatisfactionrepresentsanaffectivereaction
+(Morosan and Bowen, 2018). Hotels use chatbots to answer customer tothatexperience(Tosunetal.,2015).Servicequalityisanantecedent
+inquiries,andauto-carstopickupguestsattheairportandassistcheck- to customer satisfaction (Cronin et al., 2000; Rust et al., 1995;
+inprocesses(Chungetal.,2018).âConnieâisarobotconciergeusedin Woodside et al., 1989; Zeithaml et al., 1996). Consistent with the
+Hiltonhotelstointeractwithguestsandproviderequestedinformation. aforementionedtwo-dimensionalservicequality,customersatisfaction
+Asinanycommercialservice,thevalueofAIservicesisrevealedin can be operationalised into information and system dimensions. The
+customerperceptionsandassessmentsofsuchservices.Intheservice- services marketing literature confirms that service quality is widely
+marketing literature, service quality often reflects customersâ percep- recognisedasanantecedentofsatisfactionandbehaviouralintentions
+tionsandvalue-judgmentsofaserviceYuanandJang(2008).Service thatleadstoorganisationalprofitability(Croninetal.,2000;Kimetal.,
+quality captures service excellence that is deemed to meet or exceed 2016; Zeithaml et al., 1996), and we believe that such a relationship
+customerexpectations(Parasuraman,1995;Prentice,2013;Shietal., wouldalsobepresentinAIapplications.Accordingly,wesuggested:
+2014). Equally, the quality of AI services is manifested in customersâ
+Hypothesis 2a. AI information quality is positively and significantly
+perceptions and assessments. Unlike other services offered by organi-
+relatedtocustomersatisfaction.
+zations, AI is a technology-based service which involves information
+and system characteristics that influence information and system Hypothesis2b.AIsystemqualityispositivelyandsignificantlyrelated
+qualityperceptionsand,ultimately,usersatisfaction(WixomandTodd, tocustomersatisfaction.
+2005).
+Informationqualityispertinenttoaccuracy,currency,presentation
+andcompletenessofAIserviceprovision(WixomandTodd,2005).The 2.3. Customersatisfactionandcustomerengagement
+informationprovidedbyAI-poweredapplicationssuchasSiri,chatbots
+andotherautomatedmessagingtoolsmustbeasaccurateandtimelyas Customerengagementindicatestheprocessofcustomersââreaching
+possible to effectively address users/customersâ queries (Hong et al., outâ to the organization, demonstrated in their cognitive, emotional,
+2001/2002). For example, AI-powered E-travel agents manage travel behavioural, sensorial, and social responses (Lemon and Verhoef,
+planning,sightseeing,carrentalsandhotelbookings.Theinformation 2016).Customerengagementcanalsobereferredtoasstateofmindor
+relatingtotheseactivitiesmustbereflectiveofcustomerrequestsand apsychologicalprocessthatgeneratescustomerloyalty(Bowden,2009;
+demands (Zanker et al., 2008). The activities recommended by AI- KumarandPansari,2016).Customerengagementincludesco-creation,
+powered intermediaries must be consistent with touristsâ preferences socialinfluencethroughwordofmouth,customerreferrals,purchasing
+andrequirements(Rodriguez-Garciaetal.,2011;Zankeretal.,2008). behaviour, influencing, and knowledge behaviours (Verhoef et al.,
+TheaccuracyofdestinationinformationbySmartTouristInformation 2010)
+Pointsisimportantfortouristsâdecision-makingpertainingtodestina- Customer engagement reflects co-creation between the service
+tionchoice(Garridoetal.,2017).Systemqualityispredicatedonthe providersandcustomers;andthelevelofengagementwiththeservice
+responsivenessofAI-poweredtoolsandflexibilityofthesystemadapted organizationanditsassociatedbusinesseshasfinancialimplicationsfor
+to avarietyofuser/customer demands (Wixom andTodd,2005).For the organization as well as for customers (Brodie et al., 2011; Hoyer
+instance,restaurantsuseAItoassistcustomersinorderingfood,which etal.,2010;NambisanandNambisan,2008).VanDoornetal.(2010)
+variesacrosscustomers.AItoolsmustrespondtocustomersinatimely provided a comprehensive conceptual framework detailing the ante-
+manner and provide sufficient flexibility in line with customer de- cedents,componentsandconsequencesofcustomerengagement.Cus-
+mands.TheseAIservicesaredeemedasobjectindicatorsthatinfluence tomer satisfaction is proposed as a customer-based predictor of cus-
+object-based beliefs, while service quality is based on customersâ per- tomer engagement. Relevant marketing and management literature
+ceptions and assessments; hence AI services regarded as object-based shows that customer satisfaction is a universal antecedent of beha-
+beliefs.Thisdiscussioninformsthefollowinghypotheses: vioural intentions and behaviours (Bowen and Chen, 2001;
+KandampullyandSuhartanto,2000;Yukseletal.,2010).Thesestudies
+Hypothesis1a.AIserviceispositivelyandsignificantlyrelatedtoAI
+showthatahighlevelofsatisfactioninfluencescustomerpatronageand
+informationquality.
+retention.However,manyempiricalstudiesalsodemonstratethatthis
+Hypothesis1b.AIserviceispositivelyandsignificantlyrelatedtoAI relationship is not significant (e.g., Bitner and Hubbert, 1994; Kivela
+systemquality. etal.,2000;Rustetal.,1995).Neal(1999)arguedthatsatisfactionon
+its own cannot predict customersâ purchase behaviour or loyalty, but
+couldpossiblyimprovecustomerinvolvementwiththeorganizationor
+2.2. AIservicequalityandcustomersatisfaction thebrand.Forexample,althoughasatisfiedcustomermaynotreturnto
+the business on account of financial constraints or other situational
+Service quality is related to an individualâs object-based attitude, factors, this customer can still be engaged with the organization as a
+which is manifested in the level of satisfaction with service quality sourceofreferrals.Similarly,anextremelydissatisfiedpassengermight
+basedonthetheoryofplannedbehaviour(FishbeinandAjzen,1980; engagewiththeorganizationinthesenseofspreadingnegativewordof
+Wixom and Todd, 2005). Customer satisfaction, deemed as a post- mouth communication, or continue to be engaged in other ways that
+consumption response, is defined as an overall feeling of pleasure or maybeavailable.
+disappointmentemergingfromcomparisonsofperceivedperformance CustomersatisfactionwithAIservicequalityshouldengagecusto-
+of a service with pre-service expectations (Oliver, 1980). Customer mers.Forinstance,aconciergerobotcaninteractwithhotelguestsfor
+satisfaction can be measured as transaction-specific with discrete ele- an extended period of time (Rodriguez-Lizundia et al., 2015). Inter-
+mentsorevents(e.g.,AIinformationquality,AIsystemquality),oras activeexperienceisanimportantmeanstoenhancecustomerengage-
+overall satisfaction reflecting a holistic assessment of all experience ment in the service organization (Hayes and MacLeod; Vivek et al.,
+encounters (Cronin et al., 2000; Gustafsson et al., 2005; Veloutsou, 2014).Customerstendtobemoreengagedwhentheyreceivepleasant
+2015).Overallsatisfactionwithaserviceisrelevanttotheattributesof and memorable experiences with AI services. Such experience moti-
+theprovidedservice(Chow,2014). vates customers to have more physical, mental, social, and emotional
+Servicequalityandcustomersatisfactionaregenerallyregardedas engagement with the brand or the associated organisation (CarÃ¹ and
+discreteconstructsandmodelledseparately(CroninandTaylor,1992; Cova,2003;HayesandMacLeod,2007;Ullahetal.,2018).Basedonthe
+3C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+precedingdiscussion,weproposedthefollowinghypotheses: respondents were those who understood and had used AI services in
+thesehotels.Therespondentswereagedabove18years.Screenques-
+Hypothesis 3. Customer satisfaction with AI (i.e., AI satisfaction) is
+tionsweredevelopedtoensurethesecriteria.EachAIservicewasex-
+positivelyandsignificantlyrelatedtocustomerengagement.
+plained in detail with examples and appropriate weblinks so that the
+prospectiverespondentshadabetterunderstandingoftheirAIservice
+2.4. AIpreferenceasamoderator experience.ThesurveywasconductedonlinethroughQualtrics.Online
+surveys offer flexible, convenient and cost-efficient data collection
+Service organisations offer tangible and intangible services. (Burns and Bush, 2003). Virtual snowball sampling was employed to
+Tangible services generally include impersonal components such as accesshiddenpopulations.Thismethodhasmeritsofrecruitingmore
+facilitiesandotherservicescapeelements;whereasintangibleservices samplebyrespondents/participantsdistributingtheonlinesurvey(the
+refer to services provided by employees. AI services can be tangible weblinks) to their networks on various social media platforms (e.g.
+(e.g.,conciergerobots)orintangible(e.g.,chatbots).Numerousstudies Facebook, LinkedIn) (Baltar and Brunet, 2012). This sampling tech-
+haveshownthatemployeeserviceispivotalindeterminingcustomersâ nique is respondent-driven and has advantage of generating more re-
+attitudes and behaviours (e.g., Delcourt et al., 2013; Prentice, 2013). spondents with similarbackgrounds sincethey areconnected intheir
+Customerspreferpersonalinteractionswithserviceemployeeswhoare socialnetworksasfriends,relativesorcolleagues(Heckathorn,2011).
+reliable, responsive, professional, and empathetic as shown in SERV- GivenAIserviceismanifestedinvariousformsandsomeofwhichmay
+QUAL measures (Parasuraman et al., 1991; Prentice, 2013), AI does not beperceived asAI,anyrelevant queries fromrespondents canbe
+provide unprecedented convenience (24-h automated services) to directedtotheirfriendsviasocialmediaforaspeedyresponserather
+customers. However, given that AI is operated through machines and thantotheresearchers.
+computer programs, the level of AI service is dependent upon both
+imputed data and programming capability. Each individual customer 3.2. Measures
+has different requests and demands (Prentice, 2013), and AI may not
+equiptoprovidecustomisedservices(Prenticeetal.,2019a,b,c).The Thescalemeasurementsofinterestwereadoptedfromtheexisting
+choice of individualised services by employees and the convenience literature. Each scale item was evaluated using a 7-point Likert scale
+providedbymachinesmayhelpsatisfyindividualpreference. ranging from 1 (strongly disagree) to 7 (strongly agree). AI-related
+Inthesocialsciences,thenotionofpreferencesisderivedfromra- variables including AI performance drivers, quality, and satisfaction
+tional choice theory, which refers to an optimal choice based on the wereadoptedfromWixomandTodd(2005).TheAIserviceperformance
+decision-makerâs best interest and the relative utility of given alter- drivers scale contains 15 items pertaining to five aspects of AI perfor-
+natives (Blume and Easley, 2016). The premise of the theory is that mance, including AI accuracy, currency, reliability, flexibility, and time-
+humansactasrationalagentswhoconsiderthecostsandbenefitsofa liness.Eachdriver contains threeitems,anditdemonstrates adequate
+task carefully and behave consistently with self-determined choices scale consistency with Cronbachâs alpha (Î±) â¥ .80. AI information
+(Tversky and Kahneman, 1986). Preference represents customersâ dis- quality and AI system quality both contain three items, and they de-
+positiontofavourservicesprovidedbyanorganization.Priorresearch monstrategoodscaleconsistencywithÎ±=.92.AlthoughAIinformation
+showsthatpreferenceisrelatedtocustomer-relatedoutcomessuchas satisfactionandAIsystemsatisfactionwereassessedbytwoitems,scale
+purchase intention, willingness to buy and becoming a referral reliability remains adequate withÎ±â¥.88. AIpreference was adopted
+(Bagozzi, 1992). However, Tversky and Thaler (1990) indicate that based on the work of Cialdini et al. (1995). The scale contains three
+preference is a context-dependent process by means of choice, and items,anditdemonstratesgoodreliabilitywithÎ±=.93.
+hence labile. We argue that customers who have a preference for AI A 25-item customer engagement measure was adopted from So
+services mayhold morepositiveobject-based attitudes(manifested in etalâs(2016)multidimensionalscale.Thismeasurewasdeemedtobe
+satisfactionwithAI)andtendtobemoreengagedwithobject-related suitable sinceitwasdevelopedinthetourismandhospitality context
+entities.Thispropositionaccordswithrationalchoicetheoryinthatan andreflectscustomersâaffective, cognitive andpsychological involve-
+individual would be able to better enjoy experience with AI services, mentwiththebrandororganisation.Fivedimensionswereincludedin
+andhencebemoreengagedwithsuchâself-determinedchoice,âwhen this measure: 1) identification, representing customersâ attachment to
+thequalityoftheAIserviceissuperiorandtheconsumerholdsahigh thebrand;2)attention,indicativeofcustomersâattentiveness;3)focus
+levelofinterest.Consequently,wehypothesized: and connection with the brand, reflecting enthusiasm representing
+customersâexcitementandinterest;4)absorption,indicatingcustomersâ
+Hypothesis4a.AIpreferencehasasignificantmoderationeffectonthe
+pleasant state; and 5) interaction, indicating customersâ participation.
+relationshipbetweenAIinformationqualityandAIsatisfaction.
+Thescaleishighlyreliable,withÎ±=.98.
+Hypothesis4b.AIpreferencehasasignificantmoderationeffectonthe
+relationshipbetweenAIsystemqualityandAIsatisfaction. 3.3. Procedure
+Hypothesis5.AIpreferencehasasignificantmoderationeffectonthe
+A pilot study was conducted with PhD students who had experi-
+relationshipbetweenAIsatisfactionandcustomerengagement.
+enced AI services in hotels, to ensure appropriate response time and
+The proposed research framework and relationships are shown in clarity of wording. Consequently, some wording of the questionnaire
+Fig.1. items was modified. The information enclosed with the survey stated
+that participation in the survey was voluntary and anonymous, and
+3. Methods couldbeterminatedatanytimeattherespondentsâdiscretion;although
+the survey was designed to prevent skipping questions should they
+3.1. Sample decide to participate. Respondents were requested to respond as
+truthfully and accurately as possible. The survey was closed after 3
+The study was undertaken at hotels in Australia. AI service is ex- weeks, with nearly 400 valid responses generated. The demographic
+tensivelyusedinhotels,whereitincludesrobotslikeConnieinHilton, characteristicsareshowninTable1.
+chatbots and messaging, smart room controls, voice-controlled en-
+tertainment and etc. The data were collected from a sample of custo- 4. Analysisandresults
+merswhohadstayedinoneofAustralianhotelswithinlast12months
+that used AI-powered tools to serve customers. The prospective Details for scale reliability and convergent validity (average
+4C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+Fig.1.ResearchFramework.
+Table1 4.1. Datadiagnostics
+Demographicprofile(N=380).
+Wediagnosedcommonmethodvariancebyusingthemarkervari-
+Characteristics \%
+able method (Podsakoff et al., 2003). We selected a theoretically un-
+Gender Male 49.2 related variable â employee empathy (five items) â adopted from
+Female 50.8 Parasuramanetal.(1991).However,thereisnosignificantchangeto
+Age 18â25 9.2 the findings after partialing out its variance. Multicollinarity was as-
+26â35 28.2
+sessedthroughvarianceinflationfactor(VIFs)withvalues<3.0lower
+36â45 20.0
+46â55 17.1 thantherecommendthreshold10.
+56ormore 25.5 Descriptive statistics and zero-order correlation are presented in
+Education Belowhighschool 1.3 Table2.Totesttheproposedrelationships,weusedmultipleregression
+Highschool 17.4 andpresentedtheresultsinfivemodels.Also,wecontrolledforhotel
+College 20.0
+guestsâdemographiccharacteristicssuchasgender,age,education,and
+Undergraduate 37.1
+Postgraduate 22.6 family income. Results from Model 1 reveal that the five AI perfor-
+Others 1.6 mance drivers are all significant predictors of AI information quality
+Reasonsforstay Business 25.3 (b =.14, p < .05; b =.19, p < .01; b =.12,
+Leisure 43.9 Accuracy Currency Reliability
+p < .10;b =.18,p < .01;andb =.49,p < .001)and
+Visitingrelatives 21.1 Flexibility Timeliness
+Education 5.8 IA system quality (b Accuracy=.11, p < .10; b Currency=.15, p < .05;
+Others 3.9 b =.29, p < .001; b =.17, p < .01; and
+Reliability Flexibility
+b =.39,p < .001).Hence,Hypothesis1issupported.Model2
+Timeliness
+assesses the relationships between AI quality and AI satisfaction. Re-
+variance extracted [AVE]) are presented in Table 2. Discriminant va-
+sultsindicatethatbothAIinformationqualityandAIsystemqualityare
+liditywassupportedwithAVEsforeachfactorgreaterthanthesquared significant predictors for AI information satisfaction (b
+AI information
+correlation of each part of the factors. The measurement model as a
+=.63,p < .001;b =.31,p < .001)andAIsystem
+wholedemonstratesadequatefitwithÏ2 =2,719(Ï2/df=2.30), quality AIsystemquality
+(1215) satisfaction(b =.52,p < .001;b =.43,
+comparative fit index (CFI)=.99, root mean square error of approx- AIinformationquality AIsystemquality
+p < .001),supportingHypothesis2.TheresultsarepresentinTable3.
+imation (RMSEA)=.06, and standardized root mean square residual Model 3 tests the moderating effect of AI preference on the qual-
+(SRMR)=.06. ityâsatisfaction relationship. Results show that the AI preferenceÃ
+informationqualityinteraction(b=â.10,p < .01)andAIpreference
+Ã system quality interaction are significant only on AI information
+satisfaction,partiallysupportingHypothesis4.Also,thedirecteffectof
+Table2
+DescriptiveStatistics,Correlations,AVE,andReliabilities.
+Mean SD AVE 1 2 3 4 5 6 7 8 9 10
+1.AIPreference 3.97 1.51 .82 (.93/.93)
+2.AIAccuracy 4.65 1.07 .59 .62 (.80/.81)
+3.AICurrency 4.81 1.13 .75 .56 .73 (.90/.90)
+4.AIReliability 4.80 1.15 .79 .57 .76 .78 (.92/.92)
+5.AIFlexibility 4.57 1.08 .71 .53 .69 .74 .74 (.88/.88)
+6.AITimeliness 4.57 .86 .73 .29 .39 .48 .48 .47 (.92/.92)
+7.AIInformationQuality 4.79 1.22 .80 .56 .61 .66 .69 .65 .58 (.92/.92)
+8.AISystemQuality 4.78 1.17 .79 .61 .60 .66 .65 .65 .63 .85 (.91/.92)
+9.AIInformationSatisfaction 4.86 1.22 .85 .60 .60 .68 .69 .68 .57 .88 .83 (.88/.88)
+10.AISystemSatisfaction 4.78 1.26 .79 .60 .57 .64 .64 .62 .57 .84 .82 .82 (.98/.98)
+11.CustomerEngagement 4.06 1.38 .86 .66 .53 .51 .52 .49 .25 .59 .61 .62 .62
+Note:allcorrelationsaresignificantatthe.001level.
+SD=standarddeviation,AVE=averagevarianceextracted.
+(Cronbachâsalpha/compositereliability)arereportedonthediagonals.
+5C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+Table3
+ResultsofParameterEstimation.
+Model1 Model2 Model3 Model4 Model5
+AIInformation AISystem AIInformation AISystem AIInformation AISystem Customer Customer
+Quality Quality Satisfaction Satisfaction Satisfaction Satisfaction Engagement Engagement
+MainEffects
+AIAccuracy .14* .11â 
+AICurrency .19** .15*
+AIReliability .12â  .29***
+AIFlexibility .18** .17**
+AITimeliness .49*** .39***
+AIInformationQuality .63*** .52*** .60*** .49***
+(AIIQ)
+AISystemQuality(AISQ) .31*** .43*** .26*** .35***
+AIInformationSatisfaction .38*** .28***
+(AIIS)
+AISystemSatisfaction .37*** .20**
+(AISS)
+ModeratingEffect
+AIPreference .09*** .12*** .02
+AIPreferenceÃAIIQ â.10** â.03
+AIPreferenceÃAISQ .08* â.02
+AIPreferenceÃAIIS .11*
+AIPreferenceÃAISS â.04
+R2 .61 .60 .79 .75 .81 .76 .42 .54
+ÎR2 .02 .01 .12
+Note:â p<.10,*p<.05,**p<.01,***p<.001.
+redefiningtheindependentvariablesandmoderatorbyplusandminus
+onestandarddeviationfromthemean(AikenandWest,1991).Fig.2
+depicts that the AI information quality â information satisfaction re-
+lationship is more salient for people who have a lower level of AI
+preferencethanforthosewhohavehigherpreference;yettheeffectof
+AI preference is only apparent for people who perceive a low AI in-
+formationqualityprovidedbyafocalhotel.Fig.3illustratesthattheAI
+systemqualityâinformationsatisfactionrelationshipismoreacutefor
+peoplewhohavehighAIpreference,andtheeffectofAIpreferenceis
+onlyapparentforthosewhoperceiveahighAIsystemqualityoffered
+byafocalhotel.
+Model 4 examines the relationship between AI satisfaction and
+customerengagement.ResultsindicatethatAIinformationsatisfaction
+(b =.38,p < .001;b =.20,p <
+AIinformationsatisfaction AIsystemsatisfaction
+.001)andAIsystemsatisfactionarebothsignificantpredictorsofcus-
+Fig.2.AIInformationQualitybyAIPreferenceInteractiononAIInformation tomer engagement, supporting Hypothesis 3. Model 5 tests the mod-
+Satisfaction. erationofAIpreferenceontheAIsatisfactionâcustomerengagement
+relationship.ResultsshowthatonlytheAIpreferenceÃAIinformation
+satisfaction is significant (b = .11, p < .05), partially supporting
+Hypothesis 5. Following the simple slope procedure discussed above,
+weillustratedtheinteractioneffectinFig.4.Asthefiguredepicts,the
+AIinformationsatisfactionâcustomerengagementrelationshipismore
+salientforhighAIpreferencehotelguests.
+WeexaminedthemediationeffectleadingfromAIperformanceto
+customerengagementthroughAIqualityandAIsatisfactionusingthe
+PROCESS macro with a bootstrapped sample of 5,000. Results show
+thatAIinformationqualityandAIsystemqualitypartiallymediatethe
+relationship between AI performance drivers (IA accuracy, currency,
+reliability, flexibility, and timeliness) and AI satisfaction (information
+satisfactionandsystemsatisfaction)(Î²â¥.08,tâ¥2.46,p < .05witha
+95\%confidenceinterview[CI]betweenâ¥.02andâ¥.15).However,
+informationsatisfactionononehandpartiallymediatestherelationship
+between AI system quality and customer engagement (Î² â¥ .26, t â¥
+2.89, p < .01, 95\% CI = .09 to .45.), and on the other hand fully
+Fig. 3.AI System Quality by AI Preference Interaction on AI Information
+Satisfaction. mediatestherelationshipbetweenAIinformationqualityandcustomer
+engagement(Î²=.05,tâ¥.52,p= .60,95\%CI=â.04to.86),sug-
+gesting that the mediation of AI satisfaction is only salient for the AI
+AIpreferenceisalsosignificant(bâ¥.09,p < .001).Weillustratedthe
+informationqualityâcustomerengagementrelationship.
+moderation effect by following the simple slope approach and
+6C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+thoroughnessandformatting.Ataminimum,customersshouldexpect
+correctnessandcurrencyfromtheirprovider,ascomputer-operatedAI
+can be more advanced than humans in collecting and disseminating
+information.Thefindingisconsistentwiththatofpreviousservicere-
+search.Ascorrectnessandcurrencyarereflectiveofassuranceandre-
+liability, studies (Prentice, 2013; Shi et al., 2014) have shown that a
+firmâs service that manifests assurance and reliability entices positive
+customerresponse.
+In terms of AI system quality, the results show that reliability,
+flexibilityandtimelinessaresignificantlyrelatedtoAIsystemquality.
+Reliability indicates the dependability of AI-powered systems.
+Flexibility represents adaptability and customisation that is provided
+forindividualcustomers.TimelinessrelatestotheresponsivenessofAI
+tools. These system indicators influencecustomer experiencewith AI,
+which affects their perceptions and assessments. Although these ser-
+Fig.4.AIInformationSatisfactionbyAIPreferenceInteractiononCustomer vicesareofferedbyAI-poweredtools,fromthecustomerâsperspective,
+Engagement. they are part of the firmâs service offering and influence customersâ
+overall quality perception. These AI-powered service dimensions are
+Resultsalsoindicatethatgender(b=â.23,p < .05),education(b consistentwithtraditionalservicequalityassessment(seeParasuraman
+=â.13,p < .01),income,(b=.06,p < .05),andage(b=â.15, et al., 1991). These findings of the study are consistent with those in
+p < .001) are all significant predictors of customer engagement. Carlini and Wagner (2017). However, the system characteristics re-
+presentinternaloperations,whichinevitablyaffectuserexperience.For
+Controlling these factors helps guard against potential spurious re-
+lationships.Insummary,eachmodelpresentedinTable3demonstrates instance, customers may not fully understand the internal operative
+that the proposed relationships are able to explain 42\%â81\% of the system of the concierge robot in hotels. Customers would expect the
+varianceofthedependentmeasures. robotconciergetobecapableofmakingrestaurantsreservations,pro-
+videsightseeingrecommendations,andbooktransportation.Customers
+judgethequalityoftherobotservice,asshownininTussyadiah and
+5. Discussion
+Parks(2018),basedonwhethertherecommendedtoursareasantici-
+pated and whether time and location of the restaurant are consistent
+The study drew upon affordance and rational choice theories to
+withtheirbooking(i.e.,reliability);whethertheycouldaltertheirre-
+better understand how service organisations can utilise AI-powered servation(i.e.,flexibility);andwhethertherobotrespondstotheirre-
+toolsasserviceindicatorsthatspecificallycatertocustomerstocreate
+questsinatimelymanner(i.e.,timeliness).
+opportunities for customer actions and behaviours. The theory of Both AI information and system quality significantly relate to in-
+planned behaviours was utilized to reveal the relationship between formationandsystemsatisfaction,whichsubsequentlyinfluencescus-
+object-related beliefs representing service quality, attitudes (e.g., cus- tomer engagement. These findings concur with those inTung and Au
+tomer satisfaction) and behaviours. Considering AI technology-based (2018) showing how artificial intelligence in the hospitality context
+services,object-basedservicequality(beliefs)andcustomersatisfaction influencescustomerexperience.Theresultsshowthatinformationand
+(attitudes) are operationalised into information and system compo-
+systemqualityareequallyimportanttocustomers,giventhatbothsi-
+nents. Inconsistent relationships between attitudes and behaviours multaneouslyaffectcustomersatisfaction,butthatinformationquality
+shown in the relevant literature prompted the study to propose cus- hasalargereffect.Thisresultsuggeststhatcustomerstendtoperceive
+tomer engagement that is reflective of customersâ affective, cognitive
+AIasatoolforinformationgenerationandarelessconcernedwiththe
+and behavioural involvement with the service organization as the
+system of operation. As AI service quality represents object-based be-
+outcome of object-related beliefs and attitudes. Given that AI service
+liefs, and customer satisfaction refers to object-related attitudes, the
+qualityisanadditiontotraditionaltangibleandintangibleserviceof- finding of this significant chain relationship conforms Ajzenâs (1985)
+ferings, the study employed rational choice theory to propose pre-
+theory of planned behaviour. Customer engagement in this study in-
+ference as a moderator in the belief-attitude-engagement relationship dicatesaffective,cognitiveandbehaviouralinvolvementwiththeser-
+chain. The results confirm significant relationships in this chain. vice organisation (the hotel in this study). The result confirms that
+However, preference for AI service mostly influences information-re- customersâ positive attitudes (satisfaction) towards AI service quality
+latedbeliefsandattitudes.Detailsofthesefindingsareprovidedbelow.
+permitsthemtoengagewiththehoteltotheextentthattheyfeelthey
+are affiliated and connected with thehotel emotionally, intellectually
+5.1. ThechainofAIserviceindicatorsandcustomerengagement andbehaviourally.
+AI indicators in this study include information (i.e. completeness, 5.2. Preferenceasamoderator
+accuracy, format, and currency) and system characteristics (i.e. relia-
+bility,flexibility,integration,accessibility,andtimeliness).Theresults Rational choice theory suggests that individuals have their own
+show that accuracy and currency indicators significantly influence preferencesamongalternativesthatarereadilyavailableandthaten-
+customersâ perceptions and assessments of AI information quality. ableoptimalchoiceselection.Amongstavailableservicesprovidedby
+Accuracy and currency indicate the information provided by AI is theorganization, thosewhopreferAIservices generally holdpositive
+correct and up to date. Completeness represents all necessary in- attitudes toward AI service quality. As shown in this study, AI pre-
+formationprovidedbyAI;whereasformatindicatespresentationofthe ferencehasasignificantdirecteffectonbothinformationandsystem
+information. This finding shows that customers believe accurate and satisfaction. Such preferences enhance their beliefs about AI informa-
+updated information is more important in their decision-making. tionqualityandsatisfaction,whichleadstoenhancedsatisfactionand
+Necessity of information is both subjective and context-dependent. improvedengagementwiththeorganization,inlinewiththesignificant
+Presentationoftheinformationappearsirrelevanttocustomersâquality andpositivemoderationeffectofAIpreference.Notably,themodera-
+perceptions. Customers understand that the information from AI is tioneffectisconsistentlysignificantinrelationtoinformationquality
+computer-generated.Accordingly,theyaremoretolerantofthelevelof and satisfaction, lending support to the contention that customers
+7C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+perceiveAIasinformationgenerationtoolswhichprovideconvenience For marketers, this study provides a fresh perspective to attract
+andflexibility. customer satisfaction and loyalty. It appears timely to look beyond
+traditional marketing offerings such as promotions, complimentary
+6. Implications services,and/orloyaltyprograms.Offeringqualityservicehasbeenthe
+key approach to customer satisfaction. Service quality primarily con-
+6.1. Theoreticalimplications sists of tangible (e.g. facilities, pleasant atmospherics) and intangible
+offerings (e.g. employee empathy, reliability) manifested in each ser-
+ThestudyproposesAIascommercialserviceandadoptstheaffor- viceencounter.Thisstudyshowsthatservicesprovidedbymachinesor
+dancetheoreticalperspectivetobuildunderstandingofhowsuchser- robotscancontribute toservice qualityperception, customersatisfac-
+vices can be regarded as opportunities to influence customer engage- tion and engagement. Customers are now more technologically
+ment. The theory of planned behaviour is utilized in examining the equipped, and their demands extend beyond tangible and intangible
+influence of AI service on customersâ beliefs (service quality percep- services.
+tion),attitudes(customersatisfaction)andengagementwiththeservice Forserviceorganisationssuchashotels,thisstudyprovidesanew
+organization. Rational choice theory is used to model customersâ pre- means to engage customers and enhance customer experiences. In
+ferencesforAIservicesasamoderator.Insum,thisstudycontributesto particular,thestudyprovidesanadditionalservicequalitymeasurefor
+AI research and extends the IT domain into marketing and customer hotels or service organizations to improve overall service quality and
+relationship management research. In particular, the study extends service experiences. Given that AI preference has a significant mod-
+current understanding in the IT literature by including commercial eration effect, we recommend that organizations identify those tech-
+customersratherthanITtechniciansasAIusers(seeWixomandTodd, nology/AI inclined customers and provide appropriate technology-
+2005). based services â particularly AI tools that provide information, as AI
+Fromaservicesmarketingperspective,thisstudyintroducesanew preferenceiscloselyrelatedtoinformationqualityandsatisfaction.In
+measure of service quality by adding the service performed by com- otherwords,customersgenerallyuseAItoolsforinformationandde-
+putersormachinestoqualityassessments.SuchAI-empoweredservices cision-making.
+nowpermeateservicedeliveryintheseorganizations.Customersâper-
+ceptionsoftheseservicesinfluencecustomerattitudesandbehaviours, 7. Limitationsandfutureresearch
+andthesefindingspresentanopportunityforacademicstolookbeyond
+traditionalservicequalitymeasures.Furthermore,previousmarketing Whilstourapproachaimedtoenhancetherigorofthisresearch,a
+research has tended to use TPB to explain the relationship between fewlimitationsshouldbeacknowledged.First,themeasurementofAIis
+customerperceptions,attitudesandbehavioursmanifestedinpurchase adaptedfromtheITliterature.TheoriginalscalewasmeanttoassessIT
+andloyaltyindicators.Giventheweakrelationshipshowninamajority usersâbeliefsandattitudestowardstechnologyingeneral.Sincethereis
+of empirical studies of attitudes and behaviours, this study models noreadilyavailablescaletomeasureAI,theadaptedscalemaynotbe
+customerengagementastheoutcomeofcustomerperceptionsandat- fullyrepresentativeofallAIserviceindicators.Futureresearchshould
+titudes. As the engagement is reflected in affective, cognitive and be- endeavour to develop a scale that comprehensively and thoroughly
+haviouralconnectionwiththeserviceorganization,ourfindingsimply embraces all AI services across industries. Second, the data was only
+that customersâ actual purchase and loyalty behaviours may be in- collected in a single survey from hotel customers in Australia. This
+tervenedbycustomerengagement.Tobetteraddresscustomersâbeha- sampleframemaylimittheresearchfindings.Validatingthefindingsof
+vioural responses, it appears imperative to understand their involve- this study in other industries and other geographic locations is re-
+ment and connection with organizations. Our study responds to commended.Across-sectionaldesignwasadoptedinthisstudy,andAI
+Sniehotta et al. (2014) call for âtime to retire the theory of planned service quality is not necessarily representative of overall service
+behaviourââdemonstrating thatitmaynotnecessarilybeprudent to quality of the service organization. Other service quality indicators
+retireTPB,butitmaybeworthwhiletomodifythetheorybylooking should be regressed simultaneously to understand their respective in-
+intomediatorsandmoderatorsaswellasthestudycontext,sincecus- fluencesoncustomerengagement.Inaddition,thequestionnaire-based
+tomersâpreferencesshowasignificantmoderationeffect. surveymaynotbereflectiveofcustomerperceptionsandattitudesto-
+The study also contributes to customer engagement research by wards AI. Interviews and focus group studies should be utilised to
+incorporatingAIasanantecedenttocustomerengagement.Researchers providemoremeaningfulinsightsintotheinfluenceofAIoncustomer
+have attempted to identify customer, organisation and context-based engagement.
+predictorsormotivatorsofcustomerengagement.AIservicequalitycan
+bridgethesedomainsandbeviewedasaserviceofferedbytheorga- References
+nisation, perceived by customers, and operated in a technological
+context. Technology-based AI can be considered a new means to Aiken,L.S.,West,S.G.,1991.MultipleRegression:TestingandInterpretingInteractions.
+managecustomerrelationshipsandengagewithcustomers. Sage,NewburyPark,London.
+Ajzen,I.,1985.Fromintentionstoactions:atheoryofplannedbehavior.ActionControl.
+Springer,Berlin,Heidelberg,pp.11â39.
+6.2. Practicalimplications Ajzen,I.,Fishbein,M.,1980.UnderstandingAttitudesandPredictingSocialBehavior.
+Bagozzi,R.P.,1992.Theself-regulationofattitudes,intentions,andbehavior.Soc.
+The practical implications from the findings of this study are Psychol.Q.178â204.
+Bahrammirzaee,A.,2010.Acomparativesurveyofartificialintelligenceapplicationsin
+threefold.ForITpractitionersorconsultants,thisstudyshowsthatAIis finance:artificialneuralnetworks,expertsystemandhybridintelligentsystems.
+more than a package of technology-centric tools and advanced com- NeuralComput.Appl.19(8),1165â1195.
+puterprogramming.AIshouldbedesignedtobeacommercialservice Baltar,F.,Brunet,I.,2012.Socialresearch2.0:virtualsnowballsamplingmethodusing
+Facebook.InternetRes.22(1),57â74.
+thatcanimprovecustomerrelationshipswiththeserviceorganisation Bitner,M.J.,Hubbert,A.R.,1994.Encountersatisfactionversusoverallsatisfactionversus
+and enhance customer experiences. As all dimensions of AI service quality.ServiceQuality:NewDirectionsinTheoryandPractice.pp.72â9434(2).
+performancecontributetooverallqualityperception,ITtechniciansor Blume,L.E.,Easley,D.,2016.Rationality.TheNewPalgraveDictionaryofEconomics.pp.
+1â13.
+expertsshouldlookintotheseaspectsandensureoptimalperformance
+Bolton,C.,MachovÃ¡,V.,Kovacova,M.,Valaskova,K.,2018.Thepowerofhu-
+toenhancecustomersatisfaction.Customersmaynotbeawareofthe manâmachinecollaboration:artificialintelligence,businessautomation,andthe
+differencebetweenAIsystemandinformationquality.AItoolsmustbe smarteconomy.Econ.Manage.Financ.Mark.13(4),51â56.
+designed to be user friendly since both quality dimensions influence Bow Mde an r, kJ e. tL T.H h. e, o2 r0 .0 P9 ra. cT th .e 17pr (o 1c )e ,s 6s 3o âf 7c 4u .stomerengagement:Aconceptualframework.J.
+customersatisfactionandengagement. Bowen,J.T.,Chen,S.L.,2001.Therelationshipbetweencustomerloyaltyandcustomer
+8C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+satisfaction.Int.J.Contemp.Hosp.Manage. King,W.R.,He,J.,2006.Ameta-analysisofthetechnologyacceptancemodel.Inf.Manag.
+Brodie,R.J.,Hollebeek,L.D.,Smith,S.D.,2011.Engagement:animportantbridging 43(6),740â755.
+conceptfortheemergingSDlogiclexicon.Proceedings. Kivela,J.,Inbakaran,R.,Reece,J.,2000.Consumerresearchintherestaurantenviron-
+Buhalis,D.,Leung,R.,2018.SmarthospitalityâInterconnectivityandinteroperability ment.Part3:analysis,findingsandconclusions.Int.J.Contemp.Hosp.Manage.12
+towardsanecosystem.Int.J.Hosp.Manage.71,41â50. (1),13â30.
+Burns,A.C.,Bush,R.,2003.MarketingResearch:OnlineResearchApplication,4thed.. Kumar,V.,Pansari,A.,2016.Competitiveadvantagethroughengagement.J.Mark.Res.
+Burns,E.,Laskowski,N.,2018.ArtificialIntelligenceinAIinITToolsPromisesBetter, 53(4),497â514.
+FasterandStrongerOps. https://searchenterpriseai.techtarget.com/definition/AI- Lemon,K.N.,Verhoef,P.C.,2016.Understandingcustomerexperiencethroughoutthe
+Artificial-Intelligence. customerjourney.J.Mark.80(6),69â96.
+Cabiddu,F.,DeCarlo,M.,Piccoli,G.,2014.Socialmediaaffordances:enablingcustomer Liao,C.,Chen,J.L.,Yen,D.C.,2007.Theoryofplanningbehavior(TPB)andcustomer
+engagement.Ann.Tour.Res.48,175â192. satisfactioninthecontinueduseofe-service:anintegratedmodel.Comput.Human
+Carlini,N.,&Wagner,D.(2017,May).Towardsevaluatingtherobustnessofneural Behav.23(6),2804â2822.
+networks.In2017ieeesymposiumonsecurityandprivacy(sp)(pp.39-57).IEEE. Liu,L.,Zhou,B.,Zou,Z.,Yeh,S.C.,Zheng,L.,2018.Asmartunstaffedretailshopbased
+CarÃ¹,A.,Cova,B.,2003.Revisitingconsumptionexperience:amorehumblebutcomplete onartificialintelligenceandIoT. SeptemberIn:2018IEEE23rdInternational
+viewoftheconcept.Mark.Theory3(2),267â286. WorkshoponComputerAidedModelingandDesignofCommunicationLinksand
+Chow,C.K.W.,2014.CustomersatisfactionandservicequalityintheChineseairline Networks(CAMAD).IEEE.pp.1â4.
+industry.J.AirTransp.Manage.35,102â107. Maduravoyal,C.,2018.Artificialintelligenceinhumanresourceman-agement.Int.J.
+Chung,E.,Fowers,J.,Ovtcharov,K.,Papamichael,M.,Caulfield,A.,Massengill,T.,etal., PureAppl.Math.119(17),1891â1895.
+2018.Servingdnnsinrealtimeatdatacenterscalewithprojectbrainwave.IEEE MaranguniÄ,N.,GraniÄ,A.,2015.Technologyacceptancemodel:aliteraturereviewfrom
+Micro38(2),8â20. 1986to2013.Univ.AccessInf.Soc.14(1),81â95.
+Cialdini,R.B.,Trost,M.R.,Newsom,J.T.,1995.Preferenceforconsistency:thedevel- McArthur,D.,Lewis,M.,Bishary,M.,2005.Therolesofartificialintelligenceineduca-
+opmentofavalidmeasureandthediscoveryofsurprisingbehavioralimplications.J. tion:currentprogressandfutureprospects.J.Educ.Technol.1(4),42â80.
+Pers.Soc.Psychol.69(2),318. Mellit,A.,Kalogirou,S.A.,2008.Artificialintelligencetechniquesforphotovoltaicap-
+CroninJr,J.J.,Taylor,S.A.,1992.Measuringservicequality:areexaminationandex- plications:areview.Prog.EnergyCombust.Sci.34(5),574â632.
+tension.J.Mark.56(3),55â68. Morosan,C.,Bowen,J.T.,2018.Analyticperspectivesononlinepurchasinginhotels:a
+CroninJr,J.J.,Brady,M.K.,Hult,G.T.M.,2000.Assessingtheeffectsofquality,value, reviewofliteratureandresearchdirections.Int.J.Contemp.Hosp.Manage.30(1),
+andcustomersatisfactiononconsumerbehavioralintentionsinserviceenviron- 557â580.
+ments.J.Retail.76(2),193â218. Nambisan,S.,Nambisan,P.,2008.Howtoprofitfromabetterâvirtualcustomeren-
+DeGroot,J.,Steg,L.,2007.Generalbeliefsandthetheoryofplannedbehavior:theroleof vironmentâ.MITSloanManage.Rev.49(3),53.
+environmentalconcernsintheTPB.J.Appl.Soc.Psychol.37(8),1817â1836. Neal,W.D.,1999.Satisfactionisnice,butvaluedrivesloyalty.Mark.Res.11(1),20.
+deKervenoael,R.,Hasan,R.,Schwob,A.,Goh,E.,2020.Leveraginghuman-robotin- Oliver,R.L.,1980.Acognitivemodeloftheantecedentsandconsequencesofsatisfaction
+teractioninhospitalityservices:incorporatingtheroleofperceivedvalue,empathy, decisions.J.Mark.Res.17(4),460â469.
+andinformationsharingintovisitorsâintentionstousesocialrobots.Tour.Manag. Pansari,A.,Kumar,V.,2017.Customerengagement:theconstruct,antecedents,and
+78,104042. consequences.J.Acad.Mark.Sci.45(3),294â311.
+Delcourt,C.,Gremler,D.D.,Riel,A.C.R.,Birgelen,M.V.,2013.Effectsofperceivedem- Parasuraman,A.,1995.Measuringandmonitoringservicequality.UnderstandingServ.
+ployeeemotionalcompetenceoncustomersatisfactionandloyaltythemediatingrole Manage.143â177.
+ofrapport.J.Serv.Manag.24(1),5â24. Parasuraman,A.,Berry,L.L.,Zeithaml,V.A.,1991.Refinementandreassessmentofthe
+Dwivedi,Y.K.,Rana,N.P.,Jeyaraj,A.,Clement,M.,Williams,M.D.,2019.Re-examining SERVQUALscale.J.Retail.67(4),420â450.
+theunifiedtheoryofacceptanceanduseoftechnology(UTAUT):towardsarevised Podsakoff,P.M.,MacKenzie,S.B.,Lee,J.-Y.,Podsakoff,N.P.,2003.Commonmethod
+theoreticalmodel.Inf.Syst.Front.21(3),719â734. biasesinbehavioralresearch:acriticalreviewoftheliteratureandrecommended
+Ganguli,S.,Roy,S.K.,2011.Generictechnology-basedservicequalitydimensionsin remedies.J.Appl.Psychol.88(5),879â903.
+banking:impactoncustomersatisfactionandloyalty.Int.J.BankMark.29(2), Poole,D.L.,Mackworth,A.K.,2010.ArtificialIntelligence:FoundationsofComputational
+168â189. Agents.CambridgeUniversityPress.
+Garrido,P.,Seron,F.J.,Barrachina,J.,Martinez,F.J.,2017.SmartTouristInformation Prentice,C.,2013.Servicequalityperceptionsandcustomerloyaltyincasinos.Int.J.
+PointsbyCombiningAgents,SemanticsandAITechniques(No.ART-2017-99163). Contemp.Hosp.Manage.25(1),49â64.
+Gibson,E.J.,2000.Whereistheinformationforaffordances?Ecol.Psychol.12(1), Prentice,C.,Kadan,M.,2019.Theroleofairportservicequalityinairportanddestination
+53â56. choice.J.Retail.Consum.Serv.47,40â48.
+Gibson,A.C.,Nobel,P.S.,1986.TheCactusPrimer.HarvardUniversityPress. Prentice,C.,DominiqueLopes,S.,Wang,X.,2019a.Emotionalintelligenceorartificial
+Gustafsson,A.,Johnson,M.D.,Roos,I.,2005.Theeffectsofcustomersatisfaction,re- intelligenceâanemployeeperspective.J.Hosp.Mark.Manage.1â27.
+lationshipcommitmentdimensions,andtriggersoncustomerretention.J.Mark.69 Prentice,C.,Han,X.Y.,Hua,L.L.,Hu,L.,2019b.Theinfluenceofidentity-drivencustomer
+(4),210â218. engagementonpurchaseintention.J.Retail.Consum.Serv.47,339â347.
+Hayes,D.,MacLeod,N.,2007.Packagingplaces:designingheritagetrailsusinganex- Prentice,C.,Wang,X.,Loureiro,S.M.C.,2019c.Theinfluenceofbrandexperienceand
+perienceeconomyperspectivetomaximizevisitorengagement.J.Vacat.Mark.13 servicequalityoncustomerengagement.J.Retail.Consum.Serv.50,50â59.
+(1),45â58. Prentice,C.,DominiqueLopes,S.,Wang,X.,2020.Emotionalintelligenceorartificial
+Heckathorn,D.D.,2011.Comment:snowballversusrespondent-drivensampling.Sociol. intelligence?anemployeeperspective.JournalofHospitalityMarketing&
+Methodol.41(1),355â366. Management29(4),377â403.
+Hollebeek,L.,2011.Exploringcustomerbrandengagement:definitionandthemes.J. Rodriguez-Garcia,G.,Molinos-Senante,M.,Hospido,A.,HernÃ¡ndez-Sancho,F.,Moreira,
+Strateg.Mark.19(7),555â573. M.T.,Feijoo,G.,2011.Environmentalandeconomicprofileofsixtypologiesof
+Hong,W.,Thong,J.,Wong,W.-M.,Tam,K.-Y.,2001/2002.Determinantsofuserac- wastewatertreatmentplants.WaterRes.45(18),5997â6010.
+ceptanceofdigitallibraries:anempiricalexaminationofindividualdifferencesand Rodriguez-Lizundia,E.,Marcos,S.,Zalama,E.,GÃ³mez-GarcÃ­a-Bermejo,J.,Gordaliza,A.,
+systemscharacteristics.JMIS18(3),97â124. 2015.Abellboyrobot:studyoftheeffectsofrobotbehaviouronuserengagement
+Hoyer,W.D.,Chandy,R.,Dorotic,M.,Krafft,M.,Singh,S.S.,2010.Consumercocreation andcomfort.Int.J.Hum.Stud.82,83â95.
+innewproductdevelopment.J.Serv.Res.13(3),283â296. Russell,S.,&Norvig,P.,(2009).ArtificialIntelligence:AModernApproach.4thed.
+Hu,K.C.,Huang,M.C.,2011.Effectsofservicequality,innovationandcorporateimage PrenticeHall.
+oncustomerâssatisfactionandloyaltyofaircargoterminal.Int.J.Oper.Res.8(4), Russell,S.J.,Norvig,P.,2016.ArtificialIntelligence:aModernApproach.Pearson
+36â47. EducationLimited,Malaysia.
+Ivanov,S.H.,Webster,C.,Berezina,K.,2017.Adoptionofrobotsandserviceautomation Rust,R.T.,Zahorik,A.J.,Keiningham,T.L.,1995.Returnonquality(ROQ):making
+bytourismandhospitalitycompanies.RevistaTurismo&Desenvolvimento27(28), servicequalityfinanciallyaccountable.J.Mark.59(2),58â70.
+1501â1517. Shi,Y.,Prentice,C.,He,W.,2014.Linkingservicequality,customersatisfactionand
+Jia,Y.,Ye,Y.,Feng,Y.,Lai,Y.,Yan,R.,Zhao,D.,2018.Modelingdiscoursecohesionfor loyaltyincasinos,doesmembershipmatter?Int.J.Hosp.Manage.40,81â91.
+discourseparsingviamemorynetwork. July.Proceedingsofthe56thAnnual Sniehotta,FalkoF.,Presseau,Justin,AraÃºjo-Soares,Vera,2014a.Timetoretirethe
+MeetingoftheAssociationforComputationalLinguistics(Volume2:ShortPapers) theoryofplannedbehaviour.HealthPsychol.Rev.8(1),1â7.https://doi.org/10.
+438â443. 1080/17437199.2013.869710.
+Jiang,F.,Jiang,Y.,Zhi,H.,Dong,Y.,Li,H.,Ma,S.,etal.,2017.Artificialintelligencein Sniehotta,F.F.,Presseau,J.,AraÃºjo-Soares,V.,2014b.Timetoretirethetheoryof
+healthcare:past,presentandfuture.StrokeVasc.Neurol.2(4),230â243. plannedbehaviour.HealthPsychol.Rev.8(1),107.
+Jones,K.S.,2003.Whatisaffordance?Ecol.Psychol.15(2),107â114. So,K.K.F.,King,C.,Sparks,B.A.,Wang,Y.,2016.Enhancingcustomerrelationshipswith
+Kandampully,J.,Suhartanto,D.,2000.Customerloyaltyinthehotelindustry:theroleof retailservicebrands:theroleofcustomerengagement.J.Serv.Manage.27(2),
+customersatisfactionandimage.Int.J.Contemp.Hosp.Manage.12(6),346â351. 170â193.
+Kannan,P.V.,Bernoff,J.,2019.TheFutureofCustomerServiceisAI-Human Tosun,C.,DedeoÄlu,B.B.,Fyall,A.,2015.Destinationservicequality,affectiveimageand
+Collaboration.MITSloanPublishedon29May,2019. https://sloanreview.mit.edu/ revisitintention:themoderatingroleofpastexperience.J.Destin.Mark.Manage.4
+article/the-future-of-customer-service-is-ai-human-collaboration/. (4),222â234.
+Kaplan,A.,Haenlein,M.,2019.Siri,Siri,inmyhand:Whoâsthefairestintheland?Onthe Tung,V.W.S.,Au,N.,2018.Exploringcustomerexperienceswithroboticsinhospitality.
+interpretations,illustrations,andimplicationsofartificialintelligence.Business Int.J.Contemp.Hosp.Manage.
+Horizons62(1),15â25. Tussyadiah,I.P.,Park,S.,2018.Consumerevaluationofhotelservicerobots.Information
+Kim,Y.,Park,Y.J.,Choi,J.,Yeon,J.,2016.Theadoptionofmobilepaymentservicesfor andCommunicationTechnologiesinTourism2018.Springer,Cham,pp.308â320.
+âFintechâ.Int.J.Appl.Eng.Res.Dev.11(2),1058â1061. Tversky,A.,Kahneman,D.,1986.Rationalchoiceandtheframingofdecisions.J.Bus.59
+9C.Prentice,etal. International Journal of Hospitality Management 90 (2020) 102629
+(4),S251âS278. Wixom,B.H.,Todd,P.A.,2005.Atheoreticalintegrationofusersatisfactionandtech-
+Tversky,A.,Thaler,R.H.,1990.Anomalies:preferencereversals.JournalofEconomic nologyacceptance.Inf.Syst.Res.16(1),85â102.
+Perspectives4(2),201â211. Woodside,A.G.,Frey,L.L.,Daly,R.T.,1989.Linkingsort/iceanlity,customersatisfaction,
+Ullah,A.,Aimin,W.,Ahmed,M.,2018.Smartautomation,customerexperienceand andbehavioralintention.J.HealthCareMark.9(4),5â17.
+customerengagementinelectricvehicles.Sustainability10(5),1350. Wu,B.,Chen,X.,2017.ContinuanceintentiontouseMOOCs:integratingthetechnology
+VanDoorn,J.,Lemon,K.N.,Mittal,V.,Nass,S.,Pick,D.,Pirner,P.,Verhoef,P.C.,2010. acceptancemodel(TAM)andtasktechnologyfit(TTF)model.Comput.Human
+Customerengagementbehavior:theoreticalfoundationsandresearchdirections.J. Behav.67,221â232.
+Serv.Res.13(3),253â266. Yoon,Y.,Uysal,M.,2005.Anexaminationoftheeffectsofmotivationandsatisfactionon
+Veloutsou,C.,2015.Brandevaluation,satisfactionandtrustaspredictorsofbrandloy- destinationloyalty:astructuralmodel.Tour.Manage.26(1),45â56.
+alty:themediator-moderatoreffectofbrandrelationships.J.Consum.Mark.32(6), Yu,G.,Schwartz,Z.,2006.Forecastingshorttime-seriestourismdemandwithartificial
+405â421. intelligencemodels.J.Travel.Res.45(2),194â203.
+Verhoef,P.C.,Reinartz,W.J.,Krafft,M.,2010.Customerengagementasanewperspec- Yuan,Jingxue,Jang,SooCheong,2008.Theeffectsofqualityandsatisfactionon
+tiveincustomermanagement.J.Serv.Res.13(3),247â252. awarenessandbehavioralintentions:exploringtheroleofawinefestival.J.Travel.
+Vivek,S.D.,Beatty,S.E.,Dalela,V.,Morgan,R.M.,2014.Ageneralizedmultidimensional Res.46(3),279â288.
+scaleformeasuringcustomerengagement.J.Mark.TheoryPract.22(4),401â420. Yuksel,A.,Yuksel,F.,Bilim,Y.,2010.Destinationattachment:effectsoncustomersa-
+Walch,K.,2019.AIâsIncreasingRoleinCustomerService.CognitiveWorldpublishedon tisfactionandcognitive,affectiveandconativeloyalty.Tour.Manage.31(2),
+2July,2019. https://www.forbes.com/sites/cognitiveworld/2019/07/02/ais- 274â284.
+increasing-role-in-customer-service/#1fafeb2d73fc/. Zanker,M.,Fuchs,M.,HÃ¶pken,W.,Tuta,M.,MÃ¼ller,N.,2008.Evaluatingrecommender
+Walchuk,M.,2019.HowtoApplyAItoyourCustomerService. Publishedon21July systemsintourismâacasestudyfromAustria.Enter24â34.
+2019. https://www.salesforce.com/blog/2019/06/customer-service-ai.html. Zeithaml,V.A.,Berry,L.L.,Parasuraman,A.,1996.Thebehavioralconsequencesofser-
+Wirtz,J.,Patterson,P.G.,Kunz,W.H.,Gruber,T.,Lu,V.N.,Paluch,S.,Martins,A.,2018. vicequality.J.Mark.60(2),31â46.
+Bravenewworld:servicerobotsinthefrontline.J.Serv.Manage.29(5),907â931.
+10

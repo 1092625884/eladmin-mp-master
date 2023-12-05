@@ -1,0 +1,1239 @@
+ThecurrentissueandfulltextarchiveofthisjournalisavailableonEmeraldInsightat:
+https://www.emerald.com/insight/0959-6119.htm
+Adoption of AI-based chatbots for Chatbotsfor
+hospitalityand
+hospitality and tourism
+tourism
+RajasshriePillai
+DepartmentofManagement,
+PuneInstituteofBusinessManagement,Pune,India,and
+BrijeshSivathanu
+Received3April2020
+DepartmentofManagement,SriBalajiUniversity,Pune,India Revised24June2020
+14August2020
+Accepted14August2020
+Abstract
+PurposeâThisstudyaimstoinvestigatethecustomersâbehavioralintentionandactualusage(AUE)of
+artificialintelligence(AI)-poweredchatbotsforhospitalityandtourisminIndiabyextendingthetechnology
+adoptionmodel(TAM)withcontext-specificvariables.
+Design/methodology/approachâTounderstandthecustomersâbehavioralintentionandAUEofAI-
+powered chatbots for tourism, the mixed-method design was used whereby qualitative and quantitative
+techniques were combined. A total of 36 senior managers and executives from the travel agencies were
+interviewedandtheanalysisofinterviewdatawasdoneusingNVivo8.0software.Atotalof1,480customers
+were surveyed and the partial least squares structural equation modeling technique was used for data
+analysis.
+FindingsâAspertheresults,thepredictorsofchatbotadoptionintention(AIN)areperceivedeaseofuse,
+perceivedusefulness, perceivedtrust (PTR),perceived intelligence (PNT) andanthropomorphism (ANM).
+Technological anxiety (TXN) does not influence the chatbot AIN. Stickiness to traditional human travel
+agentsnegativelymoderatestherelationofAINandAUEofchatbotsintourismandprovidesdeeperinsights
+intomanagerâscommitmenttoprovidingtravelplanningservicesusingAI-basedchatbots.
+PracticalimplicationsâThisresearchpresentsuniquepracticalinsightstothepractitioners,managers
+andexecutivesinthetourismindustry,systemdesignersanddevelopersofAI-basedchatbottechnologiesto
+understandtheantecedentsofchatbotadoptionbytravelers.TXNisavitalconcernforthecustomers;so,
+designersanddevelopersshouldensurethatchatbotsareeasilyaccessible,haveauser-friendlyinterface,be
+morehuman-likeandcommunicateinvariousnativelanguageswiththecustomers.
+Originality/value â This study contributes theoretically by extending the TAM to provide better
+explanatorypowerwithhumanârobotinteractioncontext-specificconstructsâPTR,PNT,ANMandTXNâ
+toexaminethecustomersâchatbotAIN.Thisisthefirststepinthedirectiontoempiricallytestandvalidatea
+theoreticalmodelforchatbotsâadoptionandusage,whichisadisruptivetechnologyinthehospitalityand
+tourismsectorinanemergingeconomysuchasIndia.
+Keywords AI-basedchatbots,Anthropomorphism,Mixedmethod,Perceivedtrust,
+Perceivedintelligence,PLS-SEM,TAM
+PapertypeResearchpaper
+1.Introduction
+Technology is a game-changer for the travel and tourism industry. The innovative
+technologiessuchaschatbots,artificialintelligence(AI)androboticsarechangingtheway
+thetourismindustrypresentlyoperates(Tussyadiah,2020;BowenandMorosan,2018).AI-
+basedsystemsarenotjusttriggeringtheserviceandprocessautomation,buttheyarealso
+InternationalJournalof
+being used for direct interaction with customers in various frontline services (Van Doorn ContemporaryHospitality
+Management
+etal.,2017).Currently,morethan14\%ofairlinesworldwideareusingchatbotsforvarious Â©EmeraldPublishingLimited
+functionsofairlinesanditispredictedtoreach68\%by2020.Globally,morethan42\%of 0959-6119
+DOI10.1108/IJCHM-04-2020-0259IJCHM airports are planning to adopt chatbot technology (Ghosh and Chakravarty, 2018). The
+globalchatbotmarketismorethanUS$190mandispredictedtoincrease(Sweezey,2018).
+Thechatbotisacomputer,programmedtoemulatedialogueswithhumansusingvoice
+methodsornaturallanguagetext(xcubelabs,2017,p.1).AI-basedchatbotsaredefinedas:
+âChatbot is an acronym for chat robot and it establishes communication with humans
+utilizing AI technology and underlying computer program inbuilt in itâ (Ramachandran,
+2018,p.1).AsperAdametal.(2020,p.2),âAI-basedChatbotisaparticulartypeofchatbot
+that is designed for turn-by-turn conversations with human users based on the textual
+input.â An AI-based chatbot (hereafter simply âchatbotsâ) is an integration of intelligent
+backend systems and an interface (Guzman and Pathania, 2016). The chatbot interface
+access may happen through unique devices such as Google, Siri and Amazon Alexa,
+computers andsmartphones.Theinteractionwitha chatbotcanoccurthroughtextualor
+vocal format. Chatbot interactions are supported by intelligent backend systems, which
+facilitate the interaction process with end-users (Sheehan, 2018). The increasing adoption
+and use of digital intelligent assistants and chatbots are offering conversational system
+capabilities for sales, marketing and customer service purposes. Because of machine
+learning and intelligent software algorithms, they provide human-like conversations that
+are more engaging to the customers (SAP, 2018). The earlier versions of chatbots were
+simple response platforms, whereas the current AI-based chatbots are much more
+sophisticated, powerful and capable, increasing the humanâtechnology interaction (Rajan
+and Saffiotti, 2017). In the hospitality and tourism industry, chatbots are used for travel
+planning, customer booking, customer support and providing recommendations and
+suggestions to the customer regarding travel issues. Chatbots are helping tourism
+companiesfor24/7customersupport,morerevenueopportunities,improvedengagement,
+automatic lead capturing, reduced overhead cost, competitive advantage and time saving
+(Bowen and Morosan, 2018; Sheehan, 2018). Companies such as Makemytrip, Expedia,
+Kayak, Skyscanner and Cheapflights have started using chatbots for customer service
+(Tomhawk,2017).ThesurveyofAspectresearchsoftwareshowsthat44\%ofconsumers
+are looking forward to using AI-based chatbots over human customer care executives
+(Sweezey,2018).Technologyisimpactingallgenerationsanditisrequiredtocomprehend
+the adoption of chatbots by consumers for driving the tourism business effectively (Law
+etal.,2019;Sweezey,2018).Inthetourismsectorcurrently,thereisadearthofstudiesthat
+explorethechangeinthewaystourismiscarriedoutbecauseofthemediationofemerging
+technologiessuchasAIandrobotics(Tussyadiah,2020).Theareasofrobotics,automation
+and AI technologies have recently drawn the attention of researchers from the tourism
+domain, albeit limiting their contributions to the descriptions of current functions and
+possiblefutureimplementationsanditsimpacts(IvanovandWebster,2019a,2019b;Tung
+and Law, 2017; Yeoman and Mars, 2012; Murphy et al., 2019). There is a dire need for
+researchonadoptionandacceptanceofroboticsandAI-basedtechnologiesintourismfor
+technology-mediatedinteractions(Beldonaetal.,2018;Tussyadiah,2020;Tussyadiahand
+Fesenmaier, 2009; Tussyadiah andPark, 2018; Aliet al., 2019), the influence of perceived
+trust (PTR) (Go et al., 2020; Ukpabi et al., 2018; Chi et al., 2020; Tussyadiah, 2020),
+applicationofuncannyvalleytheory(Yu,2020)andhumanreplacement(YeomanandMars,
+2012;Yu,2020;Ivanovetal.,2019).Thereisapaucityofresearchexaminingtheadoptionof
+AI-based chatbots (Brandtzaeg and FÃ¸lstad, 2017; Ivanov and Webster, 2017; Candello,
+2017; McLean et al., 2020) as it is an emerging technology in the tourism and hospitality
+industry.Hence,thisresearchscrutinizesthefactorsfortheadoptionofchatbotsusedfor
+tourism planning (Io and Lee, 2019; Sheehan, 2018; Ivanov et al., 2017). This study
+distinctively examines the adoption of a chatbot for tourism planning which will helptourismcompaniestoleveragechatbotstechnologyforconsumerexperienceandconsumer Chatbotsfor
+engagement by understanding the factors of adoption. It will also be beneficial to the hospitalityand
+marketers and developers of chatbots to develop them as per the consumer needs. This tourism
+researchfocusesonchatbotsfortourismplanningthatencompassesfunctionsofchatbots
+suchaseffectiveandefficienttravelplansearch,suggestions,travelsupportandbookings
+with respect to transport, hotel bookings and other travel packages as per personalized
+customerpreferencesinrealtime.Tofilluptheabovegapandconductmeaningfulresearch,
+thefollowingresearchquestion(RQ)wasformed.
+RQ1. WhataretheantecedentsoftheadoptionofAI-basedchatbotsbyconsumersfor
+tourism?
+Technology adoption model (TAM) along with the contextual constructs â
+anthropomorphism (ANM), perceived intelligence (PNT), PTR, technology anxiety and
+stickinesstotraditionaltravelplanners/agentsâareintegratedtodevelopaproposedmodel
+to investigate the predictors for the adoption of chatbots by consumers in the tourism
+industry. The model is empirically validated to resolve the RQ. Besides, this study
+qualitatively interviewed the managers and executives of travel and tourism agencies to
+facilitateadeeperandmoremeaningfulunderstandingoftheadoptionintention(AIN)and
+actual usage (AUE) of chatbots in tourism. This aids to augment both the validity and
+relevanceofourcontributiontothepractitioners.
+The research has further followed the sections with literature review, hypotheses
+development, research methodology, analysis of data and results. It concludes with the
+research discussion and conclusions, theoretical and managerial implications, limitations
+andfuturescopeforresearch.
+2.Literaturereview
+Adoptionofchatbotstechnologyisanemergingsubjectofresearchandmanystudieshave
+beendoneworldwideinvariouscontexts.Thestudiesconductedforadoptionandusageof
+chatbot technologies are travel, tourism and hospitality companies (Ivanov and Webster,
+2019b), service chatbots (Sheehan, 2018), hotel interactive technologies (Morosan and
+DeFranco,2019),servicerobots(Belancheetal.,2020;Mendeetal.,2019),chatbotsingeneral
+(BrandtzaegandFÃ¸lstad,2017)andchatbotsadoptioninSiricase(IoandLee,2019).Extant
+studiesarealsodiscussingthechatbots/robotsfortourismandhumaninteraction(Yu,2020;
+Mirnigetal.,2017;Stadleretal.,2014;Rosenthal-vonderPÃ¼ttenetal.,2017).Tostudythe
+adoption of chatbots for tourism, TAM along with humanârobot interaction (HRI)
+variablesâANM,PNT,technologyanxietyandPTRâareconsideredwhicharecontext-
+specifictochatbotsfortourismapplications.
+2.1Theoreticalbasis
+2.1.1Technologyadoptionmodel.TAMisanextensivelyusedandacknowledgedmodelin
+technology adoption research and it investigates the behavioral intention to adopt new
+technology. The userâs conviction regarding perceived ease of use (PEA) and perceived
+usefulness(PUL)ofanewtechnologyimpactstheuserintention(Davis,1989).TAMwas
+usedtostudytheadoptionofsocialmediaforselectingtouristdestinations(Huaetal.,2017),
+self-servicehoteltechnology(Kaushiketal.,2015),Web-basedself-servicetechnologyinthe
+hospitality industry (Lee, 2013) and e-tourism in Egyptian tourism companies (Ghanem
+et al., 2017). As chatbots are an emerging technology in the travel and tourism industry,IJCHM hencetounderstandthebehavioralintentiontoadoptchatbotsfortourismplanning,TAM
+isconsideredinthisresearchwork.
+2.1.2Humanârobotinteraction.TheextantresearchworkdiscussestheHRI(Bartneck
+et al., 2009; Deshmukh et al., 2018; Ho and Macdorman, 2010; Yu, 2020; Sheehan, 2018;
+Bartnecketal.,2007;GrayandWegner,2012).Theservicerobotsorchatbotsâperformance
+dependsuponusersatisfaction,thereforeitisessentialtoexploretheperceptionofrobots
+amongitsusersasarobotâsperceptioncannotbemeasured.HRIisamulti-disciplinaryarea
+andtherearefivekeydimensionstestedbydevelopingtheGodspeedquestionnaire:ANM,
+PNT,likeability,animacyandperceivedsafety(Bartnecketal.,2009).Thisscaleiswidely
+usedtounderstandtheHRI(Sheehan,2018;Yu,2020;HoandMacdorman,2010;Starketal.,
+2018; Weiss and Bartneck, 2015; Werner et al., 2012; Willemse and Wykowska, 2019;
+Zaroualietal.,2018;McGinnetal.,2019;Petiscaetal.,2015;Hughesetal.,2015).Thisstudy
+mainlyfocusesontourismchatbots;hence,thisstudyhasconsideredANMandPNTfrom
+theGodspeedquestionnaire.
+2.1.3 Anthropomorphism. Inroboticstudies,mainlytheuncannyvalleytheoryisused
+verywidely.GrayandWegner(2012),Bartnecketal.(2007)andMori(1970)proposedthis
+theory of uncanny valley which discusses that the people tend to be positive about the
+things/products which have anthropomorphic features; however, this relationship is not
+necessarilylinearalways. ANMis considered as thedegree to whichconsumers perceive
+robotsandothernon-humanobjects ashuman-like(Ruijtenetal., 2019, p.1).Thestudies
+discussedtheanthropomorphiccharacteristicsofchatbotsandrobots(Sheehan,2018;Yu,
+2020;WillemseandWykowska,2019;Zaroualietal.,2018;Hughesetal.,2015;Rietzetal.,
+2019). It is discussed that chatbotâs small talk usage changed the usersâ perception that
+chatbots are intelligent, reliable and trustworthy (Cassell and Bickmore, 2003). ANM
+increasestheconfidenceandsenseofcontrol;hence,itaidstodevelopapositiveattitudinal
+response in consumers (Epley et al., 2007; Ho and Macdorman, 2010). Hence, ANM is
+consideredinthisworktotesttheadoptionofchatbotsintourismplanningtounderstand
+itsextentofhuman-likeperceptionduringHRIamongitsusers.
+2.1.4 Perceived intelligence. The AI has developed the concept of PNT (Ho and
+Macdorman, 2010; Warner and Sugarman, 1986) and it mainly concentrates on
+competence, knowledge delivery, sensibility, intelligence and responsible reaction of
+robot or chatbot (Weiss and Bartneck, 2015; Petisca et al., 2015; McGinn et al., 2019;
+Hughesetal.,2015).Itischallengingforrobotstointeractwithcustomersintelligently
+(Bartnecketal.,2009).Itiseasyforcustomerstopointoutthelimitationofarobotwhile
+interactingwithitforalongerperiod(Rauetal.,2010).TheresearchworkofYu(2020)
+foundthatPNTisalsolinkedwiththeability/competenceofrobotstospeakdifferent
+languages,pronunciationandcompetencetoprovidetheservice.PNTinthecontextof
+chatbotsandpersonalintelligenceagentsisdiscussedastheabilitytounderstandand
+produce the reply by processing natural language and providing effective results
+(MoussawiandKoufaris,2019;Moussawietal.,2020).PNTisvitalforHRI.Itisalsoa
+keyaspectofhumanandrobotcollaboration(Hughesetal.,2015).Hence,thisresearch
+considersPNTasitinvolvestheelementofHRIandcollaborationtoprovidecompetent
+servicetoconsumersfortourismplanning.
+2.1.5Perceivedtrust.PTRisdiscussedastheextenttowhichtheconsumerssensethat
+the chatbot/robot is reliable and credible (Yagoda and Gillan, 2012; You et al., 2018;
+Gallimoreetal.,2019).Consumersfeelsafewhentrustisdevelopedtowardrobots(Youetal.,
+2018). PTR in HRI plays a vital role and it is mainly associated with an individualâs
+intentions of risk-taking by trusting the trustee which shows the reliance behavior of
+individuals(Mayeretal.,1995).Trustisacrucialaspectintheadoptionofnewtechnologysuch as robot and chatbots (Lee et al., 2017; Kaushik et al., 2015; Park and Gretzel, 2007; Chatbotsfor
+McLeanetal.,2020).Hence,PTRisconsideredinthisresearchtounderstandthereliance hospitalityand
+behaviorofconsumersandtheirfeelingsofcredibilitywhileinteractingwithchatbotsfor tourism
+tourismplanning.
+2.1.6 Technology anxiety. Technologyanxietydevelopsconfusiontowardtheusageof
+technologyregardingtheactivitytobeconductedandhencereducesthewilinesstoadopt
+new technology (Lam et al., 2008; Meuter et al., 2005). Technology anxiety creates
+apprehensionandfearintheconsumerâsmindtowardusingnewtechnology(Igbariaand
+Parasuraman,1989;Venkatesh,2000).Inthisregard,technologyanxietyisconsideredasa
+crucial psychological antecedent which influences the adoption of new technology (Mani
+andChouk,2018;Evanschitzkyetal.,2015).
+2.1.7 Stickiness. Stickiness means the websiteâs capacity to retain the attention of the
+user for a longer period (Gillespie, et al., 1999; Demers and Lev, 2001; Maciag, 2000).
+Stickinessisalsostudiedregardingmobileapplicationsanditmeansthedegreetowhich
+mobileappusersrevisitthemobiletocontinuetheusage(Racherlaetal.,2012;Kimetal.,
+2016;HsuandLin,2016).Sivathanu(2019)studiedtheadoptionofdigitalpaymentsystems
+and discussed âStickinessâ as the usersâ intention to continue usage of traditional cash
+payment systems than the new digital payment systems. Stickiness in this work is
+considered as the travelersâ intention to continue booking their travel plans through
+traditionalhumantravelplanners/agentsthanusingthechatbotsfortourism.
+2.2Theoreticalframeworkdevelopment
+TAMisusedtoexaminetheadoptionofchatbotsfortourismasitiscomprehensiveand
+widely used to study adoption of technology for tourism (Hua et al., 2017; Kaushik et al.,
+2015; Ghanem et al., 2017; Pan et al., 2017) and adoption of chatbots and robot studies
+(Zaroualietal.,2018;Leeetal.,2017).
+Along with TAM, context-specific variables concerning HRI (Bartneck et al., 2009;
+Deshmukhetal.,2018;HoandMacdorman,2010;Yu,2020;Sheehan,2018;Bartnecketal.,
+2007; Gray and Wegner, 2012) are considered to provide better explanatory power. The
+consideredvariablesofHRIareANM(Ruijtenetal.,2019),PNT(WeissandBartneck,2015;
+Petiscaetal.,2015;McGinnetal.,2019;Hughesetal.,2015),PTR(YagodaandGillan,2012;
+You et al., 2018; Gallimore et al., 2019) andtechnology anxiety (Evanschitzkyet al., 2015;
+ManiandChouk,2018;Meuteretal.,2005).ThisstudyalsoexplorestheAUEofchatbotsin
+tourismbyinvestigatingtheassociationofAINandAUE(Guptaetal.,2017;Ghanemetal.,
+2017).Figure1depictstheproposedmodel.
+3.Hypothesesdevelopment
+3.1Perceivedeaseofuse
+PEAis theextent to whicha consumerbelieves that usinga particular system would be
+easy and free of effort. PEA is an antecedent of behavioral intention to use technology
+relatedtotourism(RyanandRao,2008;Luque-MartÃ­nezetal.,2007;Luo,etal.,2008).Itwas
+alsofoundinthetourismappadoptionstudythatPEAdoesnotaffectAIN(Panetal.,2017).
+Thetourists would use technology if they perceivedthat it iseasy to use andhelpful for
+travelplanningandduringtravel.Chatbotsaredesignedandintendedtobeeasytousefor
+tourismplanningpurposes,hencehypothesisisformedas:
+H1. PEAaffectstheAINofchatbotsfortourism.IJCHM
+S(cid:2)ckiness to
+Perceived easeof Tradi(cid:2)onal
+use(PEA) H1 Travel agents/
+planners (STT)
+Perceived usefulness H2
+(PUL)
+H8
+H3 Adop(cid:2)on
+Technological Inten(cid:2)on of AI ActualUsage
+anxiety (TXN) powered (AUE)ofAI
+Chatbots for powered
+H4 travel planning Chatbots for
+(AIN) H7 travel planning
+Perceived Trust
+(PTR)
+H5
+Anthropomorphism
+(ANM) H6
+Figure1.
+Perceived
+Proposedmodel Intelligence(PNT)
+3.2Perceivedusefulness
+PUL is the degree to which a consumer perceives that using a particular system would
+enhancetheperformanceofthejobortask(Davis,1989).Theusefulnessoftechnologyfor
+tourisminfluencesAIN,whichisconfirmedinextantstudiesofself-servicehoteltechnology
+(Kaushik,etal.,2015),business-to-consumer(B2C)airlinewebsite(Kimetal.,2009),tourism
+app(Panetal.,2017),lonelyplanetwebsite(Luo,etal.,2008),travelsearchengine(Parkand
+Gretzel,2007)andself-servicetechnologyinresorthotels(Ohetal.,2013).Technologysuch
+aschatbotsismakingtourismeasyandhelpfulforthetouriststoplan,solveproblemson-
+siteandbookingthetransport,hotelandotherrequiredreservations.Tourismchatbotsalso
+providetravelassistance24(cid:1)7.Thereforethehypothesisisformed:
+H2. PULaffectstheAINofchatbotsfortourism.
+3.3Technologicalanxiety
+Technological anxiety (TXN) is the extent to which a consumer has a feeling of fear or
+apprehensionthatmightbefacedduringtheusageoftechnology(Meuteretal.,2003).TXN
+isoneoftheimportantvariableswhichisdiscussedasavitalpsychologicalantecedentof
+technology adoption (Meuter et al., 2005). TXN may reduce motivation because of the
+confusion of task performance (Meuter et al., 2005). The research found that TXN of
+individuals can lead to avoiding the usage of technology tools (Meuter et al., 2005;
+Parasuraman, 2000) and it is an obstacle for the adoption of new technology (Mani and
+Chouk,2018).Therefore,itnegativelyaffectsthetechnologyadoption(Evanschitzkyetal.,
+2015).Inthetourismindustry,chatbotsareanewtechnology,whichconsumersuseinmanyways for travel planning purposes; hence, TXN of tourists may affect the adoption of Chatbotsfor
+chatbotsnegatively: hospitalityand
+tourism
+H3. TXNnegativelyaffectstheAINofchatbotsfortourism.
+3.4Perceivedtrust
+As per Komiak and Benbasat (2003), trust means the extent to which a consumer feels
+securedaboutconductingatransactionwiththeserviceprovider.Also,trustisconsidered
+as the willingness of the consumer to take a risk (Ba and Pavlou, 2002). In innovation
+research, the development of trust in e-service providers is a vital topic of investigation
+(Komiak and Benbasat, 2003). PTR depicts the consumersâ perceptions such as privacy
+protection,qualityoftheinformationandthesecurityprovidedbytheinformationsystem
+(Ponteetal.,2015).Thetourismtechnologyresearchconfirmsthepositiveeffectoftruston
+the behavioral intention to adopt self-service hotel technology (Kaushik et al., 2015),
+smartphoneapps (Guptaetal., 2017),onlinetravelpurchase(Ponteetal., 2015),anonline
+website providing information through live chat assistants (McLean et al., 2020) and
+emerging technologies in tourism (Park and Gretzel, 2007). Trust mainly emphasizes the
+travelerâsperceptionofprivacyprotection,securityandqualityofinformationandservices
+provided by chatbots. Travelers aresharingtheir personal details with chatbots fortheir
+travel planning and booking which makes them skeptical about using these chatbots.
+Thereforethehypothesisisproposed:
+H4. PTRaffectstheAINofchatbotsfortourism.
+3.5Anthropomorphism
+ANM relates to the characteristics of human beings and the behavior of human beings
+towardnon-humanthingssuchaschatbotsandrobots(Bartnecketal.,2009).Whenhuman
+interactionhappens with a non-human entity,theperson will scrutinize thebehaviorand
+featuresoftheentitytoinvestigatetheperceivedsimilarity(Sheehan,2018).Forexample,
+when the tourists use chatbots for planning the tours, individuals tend to relate it with
+humancustomercareexecutives.ANMofchatbotsisdiscussedintheliteraturethatusage
+ofchatbotsforsmalltalksandconversationshasraisedtheperceptionofusersâregarding
+chatbotâs credibility, intelligence, trust and engagement (Cassell and Bickmore, 2003).
+Sheehan(2018)confirmsthepositivecorrelationofANMwithbehavioralintentiontouse
+chatbots.Theextantliteraturediscussedthatcomputersandmachinescanbeconsideredas
+human-like(WeissandBartneck, 2015; Epley, etal., 2007).Chatbots fortourism planning
+also need to be tested for their human-like behavior as its voice quality, conversation
+abilitiesandresponsesaredevelopedasifhumanbeingsarespeakingwiththecustomers.
+Thereforethehypothesisisproposed:
+H5. ANMaffectstheAINofchatbotsfortourism
+3.6Perceivedintelligence
+Inpriorliterature,itisdiscussedinanexperimentthatthespeech,voiceandappearanceare
+judgedastheintelligenceofanotherpersonorentitysuchasarobot(Duffy,2003;Mirnigetal.,
+2017).ThePNTofachatbotorrobotisconsideredasitscompetence,efficiency,useandability
+toprovideeffectiveoutput(Mirnigetal.,2017;Yu,2020;MoussawiandKoufaris,2019)andIJCHM howitprovidessolutionstothecustomerswithinlimitedinteractions(Bartnecketal.,2009).
+Theliteratureconfirmsthatintelligentrobotsareconsideredtobemorealive(Stewart,2009)
+androbotsprovidingcustomizedinformationandinteractingwiththeusershavebeenshown
+tohaveanincreasedadoption(Rosenthal-vonderPÃ¼ttenetal.,2017;Stadleretal.,2014).PNTis
+oneoftheantecedentsofAINofhotelservicerobots(TussyadiahandPark,2018)andpersonal
+intelligentagents(Moussawietal.,2020).Chatbotsfortourisminteractwiththecustomersand
+provide real-time customized solutions for travel planning. Chatbots are useful in providing
+real-time solutions to travel bookings by solving problems related to travel planning and
+scheduling.Hence,theassociationbetweenPNTandAINneedstobetested:
+H6. PNTaffectstheAINofchatbotsfortourism.
+3.7Adoptionintention
+AIN is the subjective probability of an individualâs engagement in a certain behavior
+(FishbeinandAjzen,1975).Behavioralintentionintendstoelucidateandenvisagetheusersâ
+acceptanceofnewtechnology(Davis,1989;Martinsetal.,2014;FishbeinandAjzen,1975;
+Venkateshetal.,2003).AUEisreferredtoasthehelpprovidedbythetechnologytoachieve
+thetargetsbyusingthetechnology(Burton-jonesandGrange,2013).Thepresentresearch
+regarding theadoptionof new technologyconfirms theassociation betweenAIN anduse
+behavior of consumers (Hoque and Sorwar, 2017; Wei et al., 2020). The extant research
+supportstheeffectofAINontheAUEoftourismtechnology(Guptaetal.,2017;Ghanem
+etal.,2017;Leueetal.,2014).Achatbotisanewtechnologyusedbycustomerstoplantheir
+travel. Though they intend to use this new chatbot technology, still the probability of its
+AUEisnotconfirmed.Therefore,therelationshipneedstobetested:
+H7. TheAINinfluencestheAUEofchatbotsfortourism.
+3.8Stickinesstotraditionalhumantravelagents
+Stickinesshasbeenconsideredasauserâsintentiontorevisitthee-commercewebsite(Lin,
+2007) and mobile app (Kim et al., 2016). Sivathanu (2019) studied the digital payment
+systemsanddiscussedthestickinesstothetraditionalpaymentsystemssuchascash-based
+transactions.Itmeanstheextenttowhichuserscontinuetotransactusingthetraditional
+methods of payment than new technology. Stickiness to traditional human travel agents
+(STT)negativelymoderatestheassociationbetweenbehavioralintentionandAUEofthe
+digital payment systems (Sivathanu, 2019). It is revealed that STT influences the
+consumerâsintentiontotransactonane-commercewebsite(Lin,2007).Thisworkconsiders
+stickiness as consumerâs intention to continue using traditional booking through human
+travel agents. Existing studies mentioned that stickiness increases the user access
+occurrenceandusetimetoo(Maetal.,2019;HsuandLiao,2014;El-Manstrlyetal.,2020).
+Chatbots are new technology and conventionally customers are accustomed to travel
+planning using their traditional acquaintance, namely, human travel agents or advisors.
+Chatbotshavemanyintelligentfeaturestocatertothetouristrequirementoftourplanning.
+Thechatbotsprovidevariousoptionsfortravelbookingwhicharecost-effectiveandtime-
+saving.However,travelersmightstilldependupontraditionaltravelagentsasthehuman
+travel agents tend to maintain a strong relationship with the travelers by adopting
+marketing strategies to provide customer satisfaction (Seilov, 2015; Mangno, et al., 2016;
+Litvinetal.,2018).Thoughconsumershavetheintentiontousenewchatbottechnologyfortravelplanning,STTmightaffecttheusage.Therefore,itisnecessarytoexaminetheSTT Chatbotsfor
+moderationrelationshipbetweenAINandAUEofchatbotsfortourism: hospitalityand
+tourism
+H8. TheAINandtheAUEofchatbotsfortourismismoderatedbySTT.
+4.Researchmethodology
+This sectiondescribes theprocessfordata collectionalongwith thedesign ofthesurvey
+instrument.Themixed-methodresearchdesignhelpsresearcherstoevadeinconsistencyin
+outcomes of research caused by just focusing on qualitative or quantitative analysis
+(CreswellandClark,2007).Themixed-methodapproachisusedandsuggestedintourism
+studies forabetterconclusionofresearch(Kuoetal., 2017;Tom etal., 2017;Marianiand
+Baggio, 2020). In this research, the mixed-method approach is used which combines
+qualitative and quantitative techniques to confirm the reliability and consistency of the
+conclusions (Kallmuenzer et al., 2019; Creswell et al., 2007). The research design for this
+study was carried out in the three phases and the data from these two methods were
+analyzed and validated. In phase one, initially subject matter experts (SMEs) from
+the tourism industry and travel companies were interviewed to confirm and ensure the
+accuratemeasuresforthesecondphaseofthequantitativesurvey.Thecharacterizationof
+all the constructs was adapted from the operational definitions established in the extant
+research (Table 1). The main themes that emerged from the various dimensions were
+discussedinformally withthemanagers(notesweretaken)from thetravel agencies, who
+were considered the domain experts. These discussions occurred while the request was
+proposedforauthorizationtoconductthesurvey(phasetwo).Thisenabledtheauthorsto
+highlighttheimportanceofAI-basedchatbotsfortheiradoptionandAUEinthetraveland
+tourismsector.Inthethirdstage,themanagersfromthetravelagencieswhohadmorethan
+10yearsofexperiencewerecontactedandquestionswereaskedtounderstandtheAINand
+AUE of chatbots. To cross-validate the results and reinforce the robustness of the
+conclusion, the answers were recorded. The quantitative data collected from the survey
+respondentsandthequalitativedatafromthemanagersâinterviewsensuredvalidationof
+eachotherandformedaconcretebasisfordepictingtheconclusions.Thesupportingquotes
+providedwithinthequalitativeinterviewanalysissectionaregroundedintheexperiencesof
+themanagersfromthetravelagenciestoensureameaningfulanddeeperrelationtotheAIN
+andAUEofchatbotsintourism.Thisaidstoenhanceboththerelevanceandvalidityofour
+contributiontothepractitioners.
+4.1Researchsurveyinstrumentdesign
+The present studies of TAM and ANM were used to develop the measures of this work.
+These constructsâ characterization from the operational definitions are adopted from the
+literatureandmodified:thePEAandPUL(Davis,1989;Ohetal.,2013),AIN(Kaushiketal.,
+2015),AUE(KloppingandMcKinney,2004;LinandHuang,2008;Zhouetal.,2010),ANM
+(Luetal.,2019;Bartnecketal.,2009;Gursoyetal.,2019),PNT(Bartnecketal.,2009),TXN
+(Meuteretal.,2003;Evanschitzkyetal.,2015)andPTR(Royetal.,2001;Kaushiketal.,2015).
+TheconstructmeasuresweremodifiedandupdatedconsideringtheSMEssuggestionsfor
+travelplanningchatbots.
+4.2Samplinganddatacollection
+4.2.1Phase1.SMEsfromthetravelandtourismindustrysuchastheIndianAssociationof
+TourOperators,MinistryofTourism,DepartmentofTourismandtravelagencyexecutives,IJCHM
+Factor
+Mainconstruct Indicator/item loading Adaptedfrom
+PEA Chatbotsfortourismrequireslittlementaleffortsto 0.811 Ohetal.(2013),Davis
+AVE=0.728 plantravel (1989),Kimetal.(2009)
+CR=0.901 Itiseasytousechatbotsfortourismformytravel 0.816
+a=0.882 planandbooking
+Myinteractionwithchatbotsfortourismisclearand 0.839
+understandableforplanningmytours
+Chatbotsfortourismissimpletousefortravel 0.838
+planningandbooking
+PUL Chatbotsfortourismareusefulformytravel 0.821 Ohetal.(2013),Davis
+AVE=0.769 planning (1989),Kaushiketal.
+CR=0.911 Chatbotsfortourismimprovetheefficiencyofmy 0.862 (2015),Kimetal.(2009)
+a=0.827 travelplanning
+Chatbotsfortourismimprovemyperformanceof 0.833
+travelplanning(savetime)
+OverallIfeelthatchatbotsfortourismarevery 0.848
+usefulfortravelplanning
+TNX ImightsomehowfaceaproblemwhenIuse 0.872 Meuteretal.(2003),
+AVE=0.733 technologysuchaschatbotsfortourism Evanschitzkyetal.
+CR=0.879 Iamunabletokeepapacewithnewtechnological 0.866 (2015)
+a=0.813 advances
+Usingtechnologysuchaschatbotsfortourismis 0.863
+makesmeanxious
+Technology-relatedwordsaredifficulttounderstand 0.868
+Ifeeldifficulttounderstandtechnology-related 0.839
+matters
+Iescapefromtheutilizationofchatbottechnologyas 0.864
+itisnotmuchfamiliartome
+IamapprehensivetousetechnologyasIfeelthatI 0.844
+makemistakeswhileusingtechnologywhichI
+cannotrectify
+PTR Ifeelthatinformationabouttravelprovidedby 0.859 Royetal.(2001),Ponte
+AVE=0.741 chatbotsfortourismishonestandauthentic etal.(2015),Zhangetal.
+CR=0.896 Ifeelthatchatbotsfortourismhaveclarityof 0.862 (2019)
+a=0.819 servicesprovidedandfrankopinionswhichare
+reliable
+Ifeelchatbotsintourismfortravelplanningare 0.867
+trustworthy
+Ifeelthatchatbotsfortourismhavethenecessary 0.866
+abilitytoprovidetravelplanservice
+ANM Chatbotsfortourismhavetheirownmind 0.855 Luetal.(2019),Bartneck
+AVE=0.739 Chatbotsfortourismcanexperienceemotions 0.869 etal.(2009),Gursoy
+CR=0.944 Ifellthatchatbotsfortourismareâinanimate:living 0.863 etal.(2019)
+a=0.873 Ifellchatbotsfortourismarecomputer-animated: 0.824
+real
+PNT Ifeelthatchatbotsfortourismarecompetent 0.816 Bartnecketal.(2009),
+AVE=0.744 Ifeelthatchatbotsfortourismareknowledgeable 0.850 Tussyadiah(2016)
+CR=0.916 Ifeelthatchatbotsfortourismareresponsible 0.845
+a=0.835 Ifeelthatchatbotsfortourismareintelligent 0.831
+Ifeelthatchatbotsfortourismaresensible 0.875
+Table1. ChatbotAIN Iplantousechatbotsfortourisminthefuturefor 0.842 Kaushiketal.(2015)
+Measurementmodel AVE=0.772 travelscheduling
+summary (continued)Chatbotsfor
+Factor
+hospitalityand
+Mainconstruct Indicator/item loading Adaptedfrom
+tourism
+CR=0.946 Iintendtheusageofchatbotsintourismforfuture 0.848
+a=0.901 travelplanandbookmytravelplan
+ThereisapossibilitythatIwillsuggestmyfriends 0.854
+tousechatbotsfortravelplanning
+AUE Iregularlyusechatbotsfortravelplanning 0.816 Kloppingand
+AVE=0.717 Iusechatbotstobookmytravelplan 0.864 McKinney(2004),Lin
+CR=0.921 Iusechatbotsformytravelsuggestionsand 0.823 andHuang(2008),Zhou
+a=0.867 planning etal.(2010)
+Ifrequentlyusetochatbotsformytourplanning 0.862
+STT Iwouldliketoplanmytravelthroughmyagent 0.834 Lin(2007),Kimetal.
+AVE=0.713 alwaysthanchatbotsfortourism (2016),Sivathanu(2019)
+CR=0.923 Iwouldaskmyhumantravelplannertoplanmy 0.822
+a=0.878 traveloften
+Ialwayspreferthatmyhumantravelplannerplans 0.863
+mytravel
+Notes: 1. Average variance extracted (AVE) = (summation of the square of the factor loadings)/
+{(summationofthesquareofthefactorloadings)Ã¾(summationoftheerrorvariance)}.2.(Squareofthe
+summation of the factor loadings)/{(square of the summation of the factor loadings) Ã¾ (square of the
+summationoftheerrorvariance)} Table1.
+managers and experts from yatra.com, makemytrip.com, expedia.com, ixigo.com and
+goibibo.comwererequestedtoreviewthesurveyinstrumentadaptedfromliterature.These
+SMEs were conveyed about the scope and objectives of the work in advance. The
+suggestionsfromtheseSMEswereincorporatedintothequestionnairetoconfirmtheface
+validityoftheinstrumentforthesurvey.Thepilotstudywasdoneusingthisquestionnaire.
+Tomeasuretheoperationalconstructs,afive-pointLikertscalewasused.TheCronbachâs
+alphatestwasconductedforpre-test(64respondents)andpilottest(145respondents).The
+surveywasconductedatairports,railwaystations,busterminalsandtouristlocationsby
+contacting travelers. These travelers were shown pamphlets, information brochures and
+videos on chatbots for tourism. The authors ensured that these respondents were using
+some type of technology for travel purposes. The final survey was done after the
+appropriate results in the pilot study were attained. The construct operationalization is
+showninTable1.
+4.2.2Phase2.Thecollectionofprimarydatawasdonewithastructuredquestionnaire
+by surveying with respondents (Table 2) lasting over 10 months. The respondents were
+surveyed at the airports, railway stations, bus terminals and tourist places in the four
+western states of India: Maharashtra, Gujarat, Karnataka and Goa including the cities â
+Mumbai, Pune, Kolhapur, Panchgani, Mahabaleshwar, Lonavala, Ahmedabad,
+Gandhinagar,Surat,Vadodara,Rajkot,Bengaluru,Mysore,Coorg,HampiandPanaji.The
+respondents who used any type of tourism technology or chatbots for tourism purposes
+were surveyed using the convenience sampling technique. The videos and pamphlets
+mentioningthebenefitsandusageofthetourismchatbotswereshowntotherespondents
+beforethesurvey.Theserespondents,asshowninTable2,wereappropriateastheywere
+educated,hadsubstantialincomeandwereusingsomekindoftechnologyandchatbotsfor
+travel and tourism purposes. A total of 2,310 respondents in total were surveyed, out ofIJCHM which1,970questionnaireswerefilledupandfinally1,480completedquestionnaireswere
+thoroughinallrespectsforfinalanalysis.Therateofresponsewas60.90\%.
+4.2.3Phase3.Theseniormanagersfromthetravelagencieswhohadmorethan10years
+of experience were chosen wherein chatbots are used or companies are planning to use
+chatbots.Thedatacollectionwasacontinuousprocess.Aftereveryinterview,codingwas
+doneandthecodingprocedureisexplainedbelow.Thetheoreticalsaturationhappenedafter
+the36thmanagerâsinterview,hencetheinterviewswerestoppedandtheinformationabout
+thedemographicsofthesemanagersisprovidedinTable3.Theoreticalsaturationhappens
+during data collection, which means no new information, properties and concepts are
+developed, hence sampling is completed (Glaser and Strauss, 1967). The questions asked
+were:
+Q1. What are the reasons for which consumers are fond of chatbots for tourism
+purposes?
+Q2. Do you think ANM (human-like behavior) of chatbots is eliminating the human
+presenceintravelassistance?
+Q3. Willchatbotsreplacehumantravelassistants?
+Q4. Do you observe that customers still prefer human tour assistance rather than
+chatbots?
+Q5. Whatweresomeremarkableeventsyouobservedrelatedtochatbots?
+Therecordingoftheinterviewswasdonewiththepermissionofthesemanagersandthe
+anonymity of their identities was ensured. Qualitative and quantitative data provided
+validation to each other and established a strong foundation for the reliability of the
+Demographic Characteristics No.ofrespondents (\%)
+Gender Female 651 44
+Male 829 56
+Education Belowhighersecondary 148 10
+Highersecondary 355 24
+Graduate 415 28
+Postgraduateandabove 562 38
+Table2. Usageofanykindoftechnologyfor Lessthan6months 532 36
+Demographicprofile tourismpurpose 6â12months 607 41
+(N=1,480) 1yearandabove 341 23
+Demographicdetails Characteristics No.ofrespondents (\%)
+Designation Managingdirector 16 44
+Saleshead 12 33
+Table3. Regionalhead 8 23
+Managerâs
+Gender Male 24 67
+demographicprofile Female 12 33conclusions of the research and the development of travel organization strategies. The Chatbotsfor
+quotessupportingthedevelopmentofstrategiesattheorganizationallevelaregroundedin hospitalityand
+the managerâs viewpoints and experiences as mentioned in the discussion section. The tourism
+systematic analysis was done by transcribing the individual interviews completely. The
+datawasappraisedandcoded.
+The approach of two-step coding was considered in which the codes were mainly
+generatedinductivelyfromtheinterviewdataandaccordinglyapprovedbytheSMEsand
+authors.Inter-raterreliabilityisensuredasboththeauthorsalternativelyworkedasnon-
+coder and coder in the overall coding procedure. To finalize the code, the coder author
+defined, cross-checked and discussed the coding separately. The record-keeping and
+judgmentofthecodingweredonebythenon-coderauthor.Wheretherewasadisagreement
+on code or whenever required, the doubts were clarified from the passage of text coded.
+Alternatively,eachoftheauthorsjudgedthecodegenerated.TheSMEswerealsoconsulted
+tocross-checkthebiasduringthedataanalysisandcodingprocessandtoensurecoding
+validity.Atotalof36managerswereinterviewedastheoreticalsaturation(Saundersand
+Townsend, 2016) happened in the 36th interview. NVivo 8.0 software is used for data
+analysistocarryouttextsearches,counttheinstances,completethecodingandexplorethe
+codeintersections.
+4.3Non-responsebias
+Thet-testwasdonetoanalyzethedifferenceintheresponsebetweentheearlywave(840)
+andlatewave(540)respondentgroups(ArmstrongandOverton,1977;TsouandHsu,2015).
+The result (p = 0.31) proved that non-response bias is not a concern. Finally, the total
+responsesfoundtobefitinallrespectswere1,480.
+4.4Commonmethodbiasandendogeneity
+AfterthesinglefactorHarmantest(Wangetal.,2018;Podsakoffetal.,2003),thevarianceof
+28.32\%wasdescribedbyasinglefactor.Therefore,commonmethodbiasisnotobservedin
+thisresearch.Recursivityinthestructuralmodelmaycauseendogeneity(Dubeyetal.,2018;
+Laietal., 2018).Thevariancein an exogenous variablemay beendogenous to themodel
+(GuideandKetokivi,2015)asthecross-sectionaldatamayresultinamisspecifiedmodel.
+Hence,aRamseyregressionequationerrortestwasused(Laietal.,2018)anditconfirmed
+that endogeneity was not an issue in the proposed model. Therefore, the validity and
+reliabilityofthemeasureswereconfirmed.
+5.Dataanalysisandresults
+Atotalof44\%offemaleand56\%ofmalemembersweretherespondents.Theeducational
+background of respondents was as follows: 10\% below higher secondary, 24\% higher
+secondary,28\%graduateand38\%werepostgraduateandabove.Oftherespondents,44\%
+were using AI-based chatbots and 56\% of respondents were using other advanced
+technology. The AI-based chatbots were used in travel and tourism agencies for travel
+planningandconcierge,flightbookings,hotelbookingsandreal-timetravelassistance.The
+chatbots used by the respondents were: Myra by MakeMyTrip, Ixibaba by ixigo, Gia by
+Goibibo, Expedia chatbot by Expedia and Yuva by yatra. The respondents using the
+technologyofanytype andchatbots fortourism purposes:36\% lessthan6months,41\%
+from6to12monthsand23\%are1yearandabove.IJCHM 5.1Measurementmodel
+Partial least squares structural equation modeling (PLS-SEM) is widely used in social
+scienceresearchasitisappropriatefornon-normaldataandsupportssmallaswellaslarge
+samplesizes(Hair,etal.,2014,2017).Therefore,theanalysisoftheconceptualmodelwas
+done using PLS-SEM. The SmartPLS 2.0 software (Ringle, et al., 2005) was applied for
+primarydataanalysis.Themeasurementpropertiesinthefinalmodelwerecalculatedfor
+thelatentconstructs,reflectiveinnaturehavingmultipleindicators.
+AsperTable1,compositereliability(CR)valuesconfirmthehighlevelofreliabilityand
+internal consistency (Nunnally, 1978). The average variance extracted (AVE) values are
+greaterthan0.5;hence,theconvergentvalidityforalltheconstructsareestablished(Hair
+etal.,2017;GuadagnoliandVelicer,1988).Thecomparisonoftheinter-correlationsofthe
+constructs with the AVE off-diagonal values revealed in Table4 proves thediscriminant
+validity.Discriminantvaliditybetweentheconstructsisverified(FornellandLarcker,1981),
+asthesharedvariancevalueswerelowerthanthecorrespondingAVE.
+5.2Structuralmodel
+Themeasurementmodelwasconfirmedbyensuringthereliabilityandvalidityandthepath
+analysiswasdonetoscrutinizetheassociationbetweentheconstructsusingthestructural
+model.InTable5andFigure2,thepathcoefficientsandt-valueswiththesignificationlevel
+areshown.
+Construct TXN PEA PUL PTR ANM PNT AIN AUE STT
+PEA 0.853
+PUL 0.421 0.876
+TXN 0.310 0.472 0.856
+PTR 0.211 0.384 0.584 0.860
+ANM 0.206 0.314 0.324 0.621 0.859
+PNT 0.127 0.272 0.387 0.501 0.571 0.862
+AIN 0.982 0.187 0.172 0.237 0.548 0.442 0.878
+Table4. AUE 0.872 0.127 0.116 0.114 0.214 0.201 0.386 0.846
+Discriminantvalidity STT (cid:3)0.142 (cid:3)0.181 (cid:3)0.194 (cid:3)0.173 (cid:3)0.163 (cid:3)0.112 (cid:3)0.247 (cid:3)0.281 0.844
+Hypothesis Hypothesispath Pathcoefficient t-statistics
+H1 PEA!AIN 0.328 3.882***
+H2 PUL!AIN 0.266 2.439**
+H3 TXN!AIN (cid:3)0.139 1.108,NS
+H4 PTR!AIN 0.264 2.766***
+H5 ANM!AIN 0.256 3.389***
+H6 PNT!AIN 0.269 2.378**
+H7 AIN!ACU 0.489 3.697***
+H8 AINxSTT!ACU (cid:3)0.270 2.585***
+Table5.
+Note:t-valuesfortwo-tailedtest:***t-values2.58(sig.level=1\%),**1.96(sig.level=5\%)and*t-values
+Testingof 1.65(sig.level=10\%)
+hypothesis Source:Hairetal.(2017)Chatbotsfor
+hospitalityand
+tourism
+Figure2.
+Structuralmodel
+5.3Structuralmodelanalysis
+Table5 revealsthatPEA(b= 0.328) influencestheAINof chatbots for travelplanning,
+henceH1isconfirmed.ItcontradictsthestudyoftourismAppadoption(Panetal.,2017).
+ThePUL(b=0.266)oftravelplanningchatbotsinfluencetheAIN(Kaushik,etal.,2015;
+Luo,etal.,2008)whichsupportsH2.
+TXNisconsideredasabarriertoAINofnewtechnology(ManiandChouk,2018);
+however, it is found that there is no significant association between TXN (b =
+(cid:3)0.139)andAIN,henceH3isrejected.Asmanypeopleareusingnewtechnologyfor
+tourism, hence TXN is not an issue. PTR (b = 0.264) affects the AIN of tourism
+chatbots (Kaushik et al., 2015), which shows that travelers trust the chatbots for
+travelplanninganditsupportsH4.ANM(b=0.256)influencestheAINofchatbots
+for tourism (Sheehan, 2018) and it confirms H5. It shows that chatbots for tourism
+havinghuman-like characteristicsare well-acknowledgedforthe adoptionfortravel
+planning. PNT (b= 0.269) influences the AIN of chatbots in tourism (Stadler et al.,
+2014), which discloses that intelligent travel planning by chatbots affects adoption
+andconfirmsH6.AIN(b=0.489)ofchatbotsfortourisminfluencetheAUE(Gupta
+etal.,2017;Ghanemetal.,2017),whichconfirmsH7.AddressingH8,themoderating
+effectofstickinesstotraditionaltravelplanningandbookingthroughahumantravel
+agent on AUE of chatbots was examined using interaction effect in path analysis of
+structural equationmodeling. STTshows the significantnegative moderatingeffect
+(b = (cid:3)0.270) between AIN and AUE which supports H8. This confirms that
+stickinesstotraditionaltravelplanningandbookingthroughhumanagentactasan
+inhibitor to the AUE of chatbots and confirms the existing research (Hsu and Lin,
+2016;Sivathanu,2019;Lin,2007).IJCHM 5.4Qualitativeinterviewanalysis
+The findings are derived from the managerâs interviews, which supported the external
+validity of the results with implications. It also confirms the commitment of managers
+toward using AI-based chatbots and mentions the issues faced by them. Managers are
+willingtousechatbotsastheywillsavecostsandwillbeabletoprovidebetterandfaster
+servicesthroughchatbots.TheresultsexpresshowPEA,PUL,TXN,PTR,ANM,PNTand
+stickinessfosteringvisitorsinfluencetheintentiontouseandAUEoftourismchatbots.
+Thefollowingquotesemergedaftertheanalysisofinterviewdata:
+5.4.1Usageofchatbots(perceivedeaseofuse,perceivedusefulness,perceivedtrustand
+perceived intelligence). The managers discussed that most of the customers have
+smartphones. Customers are becoming well acquainted with technology related to travel
+planningandbooking.Thenumberofcustomerswhoareusingchatbotsfortravelplanning
+isincreasinganditisprovidingaboosttoourbusiness.Chatbottechnologyishelpingtravel
+agencies to complete travel-related tasks accurately and efficiently than their human
+counterparts.Usingchatbotsfortravelplanningiscost-effectivefortheagenciesasthereis
+no need to recruit human travel assistants. Travel agency executives and managers
+mentioned that customers have started feeling more comfortable and gradually adopting
+chatbots as they are easily accessible and provide travel-related information intelligently
+makingthetourscost-effective.Managersalsodiscussedthatcustomersareamazedtosee
+the accurate travel options and assistance provided by the AI-powered chatbots. The
+informationprovidedbythechatbotisusefulandtrustworthytoplanthetourandfixing
+thetravelitineraryforcustomers.Thefrequentlymentionedquotesinthiscategoryare:
+Chatbotsareeasilyaccessibletothecustomersandprovideanintelligenttravelplan.Customers
+aresurprisedtoseetheaccurateandquickoptionsprovidedbychatbotsfortheirtravelplanning.
+Itâsveryusefulfortravelersandslowlycustomersaretrustingthechatbotsfortravelplanning.
+Itâs cost-effective for us as it is reducing the manpower expenses. We feel that we should
+understandthedetailedcustomerneedsandcustomizethechatbotdesignasperthecustomersâ
+expectations.Customersareslowlyadoptingchatbotsduetoitseasyaccessandaccuratetravel
+planningassistance.
+5.4.2Issueswithchatbots(technologyanxietyandstickiness).Managersalsomentionedthat
+customers have complaintsabout chatbots. Some customers arenotcomfortablewith the
+paceandlanguageofthechatbots.Somecustomerspreferthemothertongueasalanguage
+of communicationwhen they areplanningtheir travel. Sometimes, evencustomers doubt
+the reliability of chatbotsâ suggestions; however, customers who are using them
+continuously trust the chatbots. Some customers enjoy coming to our travel office on
+weekendstounderstandthetravelplanindetailsandtheyliketohavepersonalassistance
+from traditional human travel assistants. They enjoy the care and personal attention
+provided by the traditional travel planners than the chatbots and they like to enjoy
+hospitality at the office. The manager also mentioned one critical incident when one
+customerdidnotunderstandthechatbotsâinstructionsandvisitedtheofficeandblastedon
+thefrontlinemanagerasheendedupbookingthewrongdatetickets.Managerspointedout
+that there are very few chatbot usage-related complaints. However, some customers feel
+morecomfortableusinghumanassistanceastheyhaveatraditionalpreference.
+Thequoteinthiscategorythatwasfrequentlydiscussedisasfollows:
+Wefeelthatchatbotscannotcompletelyreplacehumantravelassistanceasstillsomecustomers
+arehesitanttousechatbotsandcopewiththepace.Also,thenetworkandinternetconnectionto
+access and use the chatbots is at times again a problem. Some customers like the personal
+attentionandflexibilityprovidedtothembyhumantravelassistants.5.4.3Anthropomorphism.Themanagersdiscussedthattheyaretryingtogetchatbotsthat Chatbotsfor
+canreplacehumantravelassistants.Hence,chatbotsmustbeperceivedashuman-likeby hospitalityand
+customers.Themanagers mentioned thatcustomers sometimesfeel that travel assistants tourism
+arechattingwiththemandatsomepointintimeiftheydonotmatchupwiththespeedof
+the chatbot then they get irritated. Customers at times shout on chatbots when they face
+somedifficultyintravelplanningorduringtravelandtheyuseslangs.Atthatpointintime,
+chatbotscannotreplyandpacifythem.ChatbotsgenerallyareprogrammedintheEnglish
+languagewhichalsocreatesproblemsforcustomerstofeeltheANMofchatbots.Managers
+mentioned that customers do feel the ANM to some extent. In this category, the quotes
+discussedmanytimeswere:
+Chatbots are like humans and customers also started perceiving the same. However, chatbots
+havelimitationssuchas-sometimescustomerscannotmatchupwiththepaceofthechatbotand
+alsochatbotsdonotconverseinthemothertongueofcustomers.Wefeelthatitâsgoodforusif
+the chatbots replace humans as we can provide better and faster service to customers using
+chatbots.
+Overall, it was interesting to note that the data from the interviewed managers clearly
+expressed their commitment to using AI-based chatbots and issues faced by them.
+Managers are willing to use chatbots as they will save costs and will be able to provide
+better and faster services through chatbots. The interview data depicts how PEA, PUL,
+TXN,STT, PTR,ANMandPNTarefosteringthevisitorsâ intentionstouseandAUEof
+chatbotsintourism.Thequantitativedatacollectedfromthesurveyandthequalitativedata
+from the managersâ interviews provided validation of each other, confirming data
+triangulation.
+6.Discussionandconclusions
+6.1Conclusions
+Thisresearchexploredtheantecedentsofadoptionofchatbotsfortravelplanningandits
+AUE.Thetravelplanningchatbotsaresimpletouseastheycanbeaccessedfromdevices
+suchasmobiles,laptopsanddesktops.Chatbotsprovideinstantsuggestionsandreal-time
+solutionsfortravelautomation,whichimprovetheefficiencyofthetravelers.Therefore,itis
+foundthatPEAandPUFinfluencetheAINwhichconformswithothertourismtechnology
+adoptionstudies(Luo,etal.,2008;Luque-MartÃ­nezetal.,2007;Kaushik,etal.,2015).Even
+managers mentioned in the interview that customers are becoming tech-savvy; hence,
+customers are comfortable using chatbots for travel planning. Customers find chatbots
+easilyaccessibleandcanconversecomfortablywiththem.
+TXNmayleadtotheavoidanceoftheuseoftechnology(Meuteretal.,2005).However,
+the result contradicts and found that TXN does not influence the AIN of chatbots for
+tourism.The travelers areusingdifferenttypesof technologyandcustomers arefamiliar
+withtravel-relatedtechnologies.Intheinterview,managersfeelthatcustomersattimesdo
+notcopeupwiththepaceofchatbots;hence,theyendupusingtheassistanceofhumans
+fromtheagencies.Thiscanbeavoidedbycustomizingthepaceofchatbotsaspertheneed
+ofindividualcustomers.
+PTR affects the AIN of chatbots, which confirms that travelers feel that services
+provided by the chatbots are reliable, authentic and credible. Even travelers feel that
+chatbotsprovidetrustworthytravelplans.Managersduringtheinterviewmentionedthat
+customers trust the chatbots to some extent; however, they end up using human
+interventionincaseofdifficultiesandemergencies.IJCHM Anthropomorphic characteristics of robots are studied in different research studies
+(Sheehan,2018;Yu,2020;WillemseandWykowska,2019;Zaroualietal.,2018;Hughesetal.,
+2015). This study confirms the positive impact of ANM on AIN of chatbots in tourism.
+Travelersfeelthatchatbotsarereal,livingandhavehuman-likecharacteristicstoarrange
+travel plans. Managersâ interview data reveals that customers do feel that chatbots are
+perceivedashumansandhavelimitationssuchas:whencustomersareagitated,chatbots
+fail to respond, pacify and at times customers are uncomfortable, as chatbots are not
+communicatinginthecustomerâsnativelanguage.
+PNTdiscussesthatchatbots fortourismplanningareintelligent,knowledgeable,
+sensibleandreliable.ThesecharacteristicsareinbuiltinchatbotsbecauseofAI.PNT
+affects the AIN of chatbots which reveals that chatbots can provide intelligent
+solutionsthatleadtoAINofchatbots.Intheinterview,managersmentionedthatthe
+results of chatbotsâ answers because of their intelligence and accurate assistance
+amazecustomers.
+AINofchatbotsaffecttheAUEofchatbotswhichisinlinewithexistingstudies(Gupta
+etal.,2017;Ghanemetal.,2017);however,thisrelationshipismoderatedbySTTnegatively.
+Thoughtravelershavetheintentiontousetravel-planningchatbots,however,STTtothe
+traditional travel agents/planners still exist, as travelers are accustomed to using the
+traditionalmethodsoftravelplanning.
+In total, our research discusses the factors that influence the AIN of chatbots for
+tourism and its impact on AUE. Even this study understands the moderation effect of
+STTontherelationshipbetweenAINandAUEofchatbotsfortourism.Thequalitative
+data from the interview of the managers mentioned that some travelers like personal
+attention;hence,theypreferhumanassistancefortravelplanning.Theyalsoliketoshare
+individualpreferenceswithhumantravelassistantsastheyfeelmorecomfortablethan
+withchatbots.
+Chatbotsareinthecourseofacceptancebythecustomersandfacelimitationssuchas
+lackofcommunicationinthemothertongueinconversationswithchatbotsandthepaceof
+chatbotsattimesdoesnotmatchwithcustomers.Morepersonalizationandcustomizationis
+required.Some customersstillfeel comfortablewithpersonaltravelassistance byhuman
+travelagentsandpreferbespokeattention.
+In this research, the authors throw light on user behavior regarding the adoption of
+chatbotsfortourismusingamixed-methodapproach.Themodelproposedisbasedonthe
+extantstudies(Davis,1989;Ohetal.,2013;Luetal.,2019;Gursoyetal.,2019;Kaushiketal.,
+2015) to provide the predictors of AIN of chatbots for tourism. The proposed model is
+statisticallyvalidatedasitadequatelyproves63.2\%ofAINofchatbotsand67.9\%forAUE
+of chatbots in tourism. The predictors of AIN of chatbots are PEA, PUL, PTR, PNT and
+ANM.ThisstudyrevealsthenegativemoderationeffectofSTTbetweenAINandAUEof
+chatbots. TXN has no influence on the AIN of chatbots which contradicts the existing
+studies(Evanschitzkyetal.,2015).TheantecedentsrelatedtochatbotssuchasANM,PTR
+andPNTarestudiedandfoundtohaveapositiveinfluenceontheAINofchatbots.Finally,
+the proposed framework for the adoption of chatbots provides the predictors of chatbot
+adoptionandtheroleofSTTinadoption.Theresultsfromthequantitativedatacollected
+fromthetravelersprovidedempiricalevidenceabouttheantecedentsofadoptionandAUE
+of chatbots in tourism which was also reflected from the interviews of travel agency
+managers providing cross-validation of each other. This study is comprehensive as it
+establishes the reliability of the results by including the customersâ and managersâ
+perspectives.6.2Theoreticalimplications Chatbotsfor
+Theproposedtheoreticalmodelisforchatbotsâadoptionandusage,whichisadisruptive
+hospitalityand
+tourism technology. The proposed model is derived from the extant literature (Kaushik
+tourism
+etal.,2015;Ghanemetal.,2017;Sheehan,2018;Bartnecketal.,2007;Gallimoreetal.,2019;
+Zhang et al., 2019; Evanschitzky et al., 2015). This work responds to the call for further
+researchandempiricalstudiesonintelligentautomationinthetourismsectorbyfurnishing
+aconceptualmodelfortheadoptionofchatbotsascurrentlythereisadearthofstudiesthat
+explorethechangeinthewaystourismisperformedbecauseofthemediationofemerging
+technologiessuchasAIandrobotics(Tussyadiah,2020).Itfurtherbridgesthegapinthe
+presentliteratureontheadoptionofchatbottechnologyintourism.Thisstudytakesastep
+forward in advancing the literature by providing key insights for the practitioners and
+scholars who want to study thetravelersâ behavior regarding theadoption of chatbots in
+tourism.Thismixed-methodworkacknowledgesthecallbyDenzin(2012)thatsuggested
+the lack of âtriangulationâ methodology studies in AI-based technologies especially in
+tourism, where the same phenomenon is studied and verified using combined
+methodologies.
+ThemodelprovidesthepredictorsofAINofchatbots,whicharePEA,PUF,PTR,ANM,
+PNT and TXN. It found that TXN is not a significant predictor. The ANM is studied
+previouslyintheadoptionofrobotsandthisstudyshowsthatANMisapredictorofchatbot
+adoption. This contributes to the literature by empirically validating the application of
+uncannyvalleytheoryinthecontextofchatbots.PTRandPNTshowedapositiveimpact
+ontheAINofchatbots.Thisworkempiricallytestedandvalidatedthemoderationeffectof
+STTontherelationbetweenAINandAUEofchatbotsprovidingavaluablecontributionto
+the tourism domain literature. This study highlights the stickiness to traditional travel
+planning and arrangements through travel agents and its effect on the adoption of STT
+negatively moderates the relation of AIN of chatbots to AUE of chatbots in tourism.
+Scholars can use this model to study the various new advanced technology adoption
+behaviorrelatedtoAI-basedchatbotsandroboticsintourism.Thisstudyhighlightstherole
+ofstickinesstothetraditionalhumantravelassistanceintheacceptanceofchatbotsamong
+travelers.
+6.3Practicalimplications
+This research provides critical insights for practitioners and managers by providing the
+factors of AIN of chatbots in tourism. This study highlights some of the managerâs
+viewpoints,whichcanbeconsideredtocomprehendtheadoptionofchatbotsinthetourism
+industry.Marketersanddesignersoftourismchatbotsneedtoensurethatchatbotsareeasy
+and simple to use as well as useful in the tour planning and travel management. In
+consideration with H3, H4 and H5, developers of chatbots for tourism must ensure that
+chatbots provide reliable information and intelligently automate the tourism industry by
+providingreal-timesolutions.PTRisimportantforAINofchatbots(Kaushik,etal.,2015);
+hence, trust needs to be ensured by providing authentic service through chatbots for
+tourism.ANMisapredictorofAIN(Sheehan,2018),thereforedevelopersofchatbotsalso
+need to ensure that chatbots have anthropomorphic characteristics so that users feel that
+chatbotsarereal,livingandhuman-like.Designersanddeveloperscanensurethatchatbots
+communicate in various languages which would provide a user-friendly interface to the
+customers. Though TXN ((cid:3)0.139) did not influence AIN of chatbots for tourism,
+the practitioners need to ensure that chatbots do not create any anxiety related to the
+technology.Thedesignersneedtodevelopuser-friendlychatbotssothattechnologyanxiety
+canbeeliminatedfromcustomersâminds.IJCHM ItunfoldsthecriticalroleofSTTinmoderatingtherelationshipbetweenAINandAUE
+of chatbotsas per H8. Travelers areaccustomed to revisiting thetravelagentsfortravel
+planning because of their traditional practice of doing so. In the Indian context, travel
+agencies â Cox and Kings, Thomas Cook, SOTC, Kesari Tours and Club Mahindra â
+maintain a strong relationship with the consumers. The chatbot providers also need to
+ensure distinct and unique service features to offer delight for consumers to attract
+consumer usage. Online travel agencies such as yatra.com, expedia.com, goibibo.com,
+makemytrip.comandixigo.comareextensivelyleveragingtheusageofchatbots,hencethe
+antecedentsdiscussedinthisresearchforthesuccessfuladoptionofchatbotsbyconsumers
+maybeconsidered.Thegovernmenttourismdepartmentneedstoconsiderthepredictorsof
+AIN of chatbots in tourism for successful adoption. The marketers can benefit from this
+studyasitprovidesmixedviewpointsofthecustomersaswellasthemanagerstoensure
+thatthefindingsofthisstudyarevalid.
+The chatbots need to be programmed with customization and personalization as per
+customersâneedssothatcustomerswillbeateasewhileusingchatbotsfortravelplanning.
+6.4Limitationsandfutureresearch
+ThisisthefirstinitiativetoinvestigatetheAINandAUEofchatbotsfortourism.Thetravel
+chatbotservicesarerecentlystartedbytravelagencies.Thisstudylimitsitselfbystudying
+the chatbots for the tourism sector. This is a cross-sectional study and it has geographic
+limitationstooasitsurveystheusersofchatbotsfortourisminIndia.Further,thisAINof
+chatbotscanbeextendedtovariousdevelopingcountriesanddifferentsectors/industries.
+Futurestudiescanunderstandthecontinuationintentionofchatbotsusagebyusers.The
+researchcanbeperformedtoexploretheissuesfacedbytheserviceprovidersofchatbots
+while designing and developing the chatbots. This study provides insights for AIN and
+AUEofchatbots.However,furtherstudiescanbeextendedtoincludetheantecedentssuch
+ascustomization,personalization,interactivityandperceivedenjoyment,andunderstandits
+influence on the customer experience and perceived customer value. The study can be
+extended to understand the data quality provided by the chatbots as per the customersâ
+requirements and its influence on customer satisfaction. Longitudinal studies can be
+conductedtogeneralizetheoutcomeofthisstudy.
+References
+Adam,M.,Wessel,M.andBenlian,A.(2020),âAI-basedchatbotsincustomerserviceandtheireffects
+onusercomplianceâ,ElectronicMarkets,Vol.30No.1,pp.1-19.
+Ali,F.,Park,E.,Kwon,J.andChae,B.(K.).(2019),â30yearsofcontemporaryhospitalitymanagement:
+uncovering the bibliometrics and topical trendsâ, International Journal of Contemporary
+HospitalityManagement,Vol.31No.7,pp.2641-2665.
+Armstrong,J.S.andOverton,T.S.(1977),âEstimatingnonresponsebiasinmailsurveysâ,Journalof
+MarketingResearch,Vol.14No.3,pp.396-402.
+Ba,S.andPavlou,A.P.(2002),âEvidenceoftheeffectoftrustbuildingtechnologyinelectronicmarkets:
+pricepremiumsandbuyerbehaviorâ,MISQuarterly,Vol.26No.3,pp.243-268.
+Bartneck,C.,Kanda,T.,Ishiguro,H.andHagita,N.(2007),âIstheuncannyvalleyanuncannycliff?â,
+16thIEEEInternationalConferenceonRobotand HumanInteractiveCommunication,IEEE,
+Jeju,pp.368-373.
+Bartneck, C., Kuli(cid:1)c, D., Croft, E. and Zoghbi, S. (2009), âMeasurement instruments for the
+anthropomorphism,animacy,likeability,perceivedintelligence,andperceivedsafetyofrobotsâ,
+InternationalJournalofSocialRobotics,Vol.1No.1,pp.71-81.Belanche, D., Casal(cid:1)o, L.V., Flavi(cid:1)an, C. and Schepers, J. (2020), âService robot implementation: a Chatbotsfor
+theoreticalframework and research agendaâ, The Service Industries Journal, Vol. 40 No. 3-4, hospitalityand
+pp.203-225.
+tourism
+Beldona, S., Schewartz, Z. and Zhang, X. (2018), âEvaluating hotel guest technologies: does home
+matter?â, International Journal of Contemporary Hospitality Management, Vol. 30 No. 5,
+pp.2327-2342.
+Bowen,J.andMorosan,C.(2018),âBewarehospitalityindustry:therobotsarecomingâ,Worldwide
+HospitalityandTourismThemes,Vol.10No.6,pp.726-733.
+Brandtzaeg, P.B. and FÃ¸lstad, A. (2017), âWhy people use chatbotsâ, Proceedings of the 4th
+International Conference of Internet Science, INSCI 2017, Springer, Thessaloniki,
+pp.1-18.
+Burton-Jones,A.andGrange,C.(2013),âFromusetoeffectiveuse:arepresentationtheoryperspectiveâ,
+InformationSystemsResearch,Vol.24No.3,pp.632-658.
+Candello, H. (2017), âTypefaces and the perception of humanness in natural language chatbotsâ,
+Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, Denver,
+pp.3476-3487.
+Cassell,J.andBickmore,T.(2003),âNegotiatedcollusion:modelingsociallanguageanditsrelationship
+effects in intelligent agentsâ, User Modeling and User-Adapted Interaction, Vol. 13 Nos 1/2,
+pp.89-132.
+Chi,O.H.,Denton,G.andDogan,G.(2020),âArtificiallyintelligentdeviceuseinservice delivery:a
+systematic review, synthesis, and research agendaâ, Journal of Hospitality Marketing and
+Management,Vol.29No.5,pp.1-30.
+Creswell, J.W. and Clark, V.L.P. (2007), âDesigning and conducting mixed methods researchâ,
+AustralianandNewZealandJournalofPublicHealth,Vol.31No.4,pp.388-388.
+Creswell,J.W.,Hanson,W.E.,ClarkPlano,V.L.andMorales,A.(2007),âQualitativeresearchdesigns:
+selectionandimplementationâ,TheCounselingPsychologist,Vol.35No.2,pp.236-264.
+Davis,F.D.(1989),âPerceivedusefulness,perceivedeaseofuse,anduseracceptanceofinformation
+technologyâ,MISQuarterly,Vol.13No.3,p.319.
+Demers,E.A.andLev,B.I.(2001),âArudeawakening:internetshakeoutin2000â,ReviewofAccounting
+Studies,Vol.6Nos2/3,pp.331-359.
+Denzin,N.K.(2012),âTriangulation2.0*â,JournalofMixedMethodsResearch,Vol.6No.2,pp.80-88.
+Deshmukh,A.,Craenen,B.,Vinciarelli,A.andFoster,M.E.(2018),âShapingrobotgesturestoshape
+usersâ perception: the effect of amplitude and speed on Godspeed ratingsâ, HAI 2018 â
+Proceedingsofthe6thInternationalConferenceonHuman-AgentInteraction,Associationfor
+ComputingMachinery,Southampton,pp.293-300.
+Dubey,R.,Luo,Z.,Gunasekaran,A.,Akter,S.,Hazen,B.T.andDouglas,M.A.(2018),âBigdataand
+predictive analytics in humanitarian supply chainsâ, The International Journal of Logistics
+Management,Vol.29No.2,pp.485-512.
+Duffy, B.R. (2003), âAnthropomorphism and the social robotâ, Robotics and Autonomous Systems,
+Vol.42Nos3-4,pp.177-190.
+El-Manstrly, D., Ali, F. and Steedman, C. (2020), âVirtual travel community membersâ stickiness
+behaviour:howandwhenitdevelopsâ,InternationalJournalofHospitalityManagement,Vol.88,
+p.102535.
+Epley, N., Waytz, A. and Cacioppo, J.T. (2007), âOn seeing human: a three-factor theory of
+anthropomorphismâ,PsychologicalReview,Vol.114No.4,pp.864-886.
+Evanschitzky,H.,Iyer,G.,Pillai,K.,Kenning,P.andScheutte,R.(2015),âConsumertrial,continuous
+use, and economic benefits of a retail service innovation: the case of the personal shopping
+assistantâ,JournalofProductInnovationManagement,Vol.32No.3,pp.459-475.IJCHM Fishbein,M.andAjzen,I.(1975),Belief,Attitude,Intention,andBehaviour:AnIntroductiontoTheory
+andResearch,Addison-Wesley,MA.
+Fornell, C. and Larcker, D.F. (1981), âEvaluating structural equation models with unobservable
+variablesandmeasurementerrorâ,JournalofMarketingResearch,Vol.18No.1,pp.39-50.
+Gallimore,D.,Lyons,J.B.,Vo,T.,Mahoney,S.andWynne,K.T.(2019),âTrustingRobocop:gender-
+basedeffectsontrustofanautonomousrobotâ,FrontiersinPsychology,Vol.10,pp.1-9.
+Ghanem,M.M.,Mansour,S.O.andAdel,H.(2017),âTheimpactofnationalcultureontheadoptionofe-
+tourisminEgyptiantourismcompaniesâ,Tourism,Vol.65No.2,pp.234-246.
+Ghosh,J.andChakravarty,R.(2018),âExpedition3.0:travelandhospitalitygonedigital,KPMGand
+FICCIâ, available at: https://home.kpmg/in/en/home/insights/2018/03/ficci-expedition-travel-
+hospitality-technology-innovation-india-digital.html
+Gillespie, A. Krishna, M. Oliver, C. Olsen, K. and Thiel, M. (1999), âOnline behavior stickinessâ,
+VanderbiltUniversityâsELab,availableat:http://elab.vanderbilt.dedu/research
+Glaser,B.andStrauss,A.(1967),âGroundedtheory:thediscoveryofgroundedtheoryâ,Sociologythe
+JournaloftheBritishSociologicalAssociation,Vol.12No.1,pp.27-49.
+Go, H., Kang, M. and Suh, S.B.C. (2020), âMachine learning of robots in tourism and hospitality:
+interactivetechnologyacceptancemodel(iTAM)âcuttingedgeâ,TourismReview,Vol.ahead-of-
+printNo.ahead-of-print.
+Gray, K. and Wegner, D.M. (2012), âFeeling robots and human zombies: mind perception and the
+uncannyvalleyâ,Cognition,Vol.125No.1,pp.125-130.
+Guadagnoli, E. and Velicer, W.F. (1988), âRelation of sample size to the stability of component
+patternsâ,PsychologicalBulletin,Vol.103No.2,pp.265-275.
+Guide,V.D.R.andKetokivi,M.(2015),âNotesfromtheeditors:redefiningsomemethodologicalcriteria
+forthejournalâ,JournalofOperationsManagement,Vol.37No.1,pp.5-8.
+Gupta,A.,Dogra,N.andGeroge,B.(2017),âJournalofhospitalityandtourismtechnologyâ,Journalof
+HospitalityandTourismTechnology,Vol.9No.1,pp.50-64.
+Gursoy,D.,Chi,O.H.,Lu,L.andNunkoo,R.(2019),âConsumersacceptanceofartificiallyintelligent(AI)
+device use in service deliveryâ, International Journal of Information Management, Vol. 49,
+pp.157-169.
+Guzman,I.andPathania,A.(2016),âChatbotsincustomerservice,accentureinteractiveâ,availableat:
+https://doi.org/10.1007/BF02490459
+Hair, J.F.,Jr, Hult, G.T.M., Ringle, C.M.and Sarstedt, M. (2017), âA primeron partial least squares
+structuralequationmodelingâ,2nded.,LongRangePlanning,SagePublication,London.
+Hair, J.F., Sarstedt, M., Hopkins, L. and Kuppelwieser, V.G. (2014), âPartial least squares structural
+equation modeling (PLS-SEM): an emerging tool in business researchâ, European Business
+Review,Vol.26No.2,pp.106-121.
+Ho,C.andMacdorman,K.F.(2010),âComputersinHumanBehavior,Vol.26No.6,pp.1508-1518.
+Hoque,R.andSorwar,G.(2017),âUnderstandingfactorsinfluencingtheadoptionofmHealthbythe
+elderly: an extension of the UTAUT modelâ, International Journal of Medical Informatics,
+Vol.101,pp.75-84.
+Hsu,C.L.andLiao,Y.C.(2014),âExploringthelinkagesbetweenperceivedinformationaccessibility
+and microblog stickiness: the moderating role of a sense of communityâ, Information and
+Management,Vol.51No.7,pp.833-844.
+Hsu,C.L.andLin,J.C.C.(2016),âEffectofperceivedvalueandsocialinfluencesonmobileappstickiness
+andin-apppurchaseintentionâ,TechnologicalForecastingandSocialChange,Vol.108,pp.42-53.
+Hua,L.Y.,Ramayah,T.,Ping,T.A.andJacky,C.J.(2017),âSocialmediaasatooltohelpselecttourism
+destinations:thecaseofsocialmediaasatooltohelpselecttourismdestinations:thecaseof
+Malaysiaâ,InformationSystemsManagement,Vol.34No.3,pp.265-279.Hughes, P., Barker, S., Pilling, M. and Fuente, L.A. (2015), âThe impact of leader-follower robot Chatbotsfor
+collaboration strategies on perceived safety and intelligenceâ, A World with Robots: hospitalityand
+InternationalConferenceonRobotEthics:ICRE,Springer,NewYork,NY,pp.145-158.
+tourism
+Igbaria,M.andParasuraman,S.(1989),âApathanalyticstudyofindividualcharacteristics,computer
+anxiety, and attitudes towards microcomputersâ, Journal of Management, Vol. 15 No. 3,
+pp.373-388.
+Io,H.andLee,C.(2019),âUnderstandingtheadoptionofchatbotacasestudyofSiriâ,Advancesin
+Information and Communication Networks, Springer International Publishing, Cham,
+pp.632-643.
+Ivanov,S.andWebster,C.(2017),âDesigningrobot-friendlyhospitalityfacilitiesâ,Proceedingsofthe
+ScientificConferenceâTourism.Innovations.Strategies,Bourgas,pp.74-81.
+Ivanov,S.andWebster,C.(2019a),âPerceivedappropriatenessandintentiontouseservicerobotsin
+tourismâ,inPesonen,J.andNeidhardt,J.(Eds),InformationandCommunicationTechnologiesin
+Tourism2019,ProceedingsoftheInternationalConferenceinNicosia,SpringerInternational
+Publishing,Cyprus,pp.237-248.
+Ivanov, S. and Webster, C. (2019b), âWhat should robots do? A comparative analysis of industry
+professionals,educatorsandtouristsâ,inPesonen,J.andNeidhardt,J.(Eds),Informationand
+CommunicationTechnologiesinTourism2019,Proceedings,SpringerInternationalPublishing,
+Cyprus,pp.249-262.
+Ivanov, S.H., Webster, C. and Berezina, K. (2017), âAdoption of robots and service automation by
+tourismandhospitalitycompaniesâ,RevistaTurismoandDesenvolvimento,Vol.1Nos27/28,
+pp.1501-1517.
+Ivanov, S., Gretzel, U., Berezina, K., Sigala, M. and Webster, C. (2019), âProgress on robotics in
+hospitality and tourism: a review of the literatureâ, Journal of Hospitality and Tourism
+Technology,Vol.10No.4,pp.489-521.
+Kallmuenzer,A.,Kraus,S.,Peters,M.,Steiner,J.andCheng,C.F.(2019),âEntrepreneurshipintourism
+firms:amixed-methodsanalysisofperformancedriverconfigurationsâ,TourismManagement,
+Vol.74,pp.319-330.
+Kaushik,A.K.,Agrawal,A.K.andRahman,Z.(2015),âTouristbehaviourtowardsself-servicehotel
+technology adoption: trust and subjective norm as key antecedentsâ, Tourism Management
+Perspectives,Vol.16,pp.278-289.
+Kim,H.,Kim,T.andShin,S.W.(2009),âModelingrolesofsubjectivenormsandeTrustincustomersâ
+acceptance of airline B2C eCommerce websitesâ, Tourism Management, Vol. 30 No. 2,
+pp.266-277.
+Kim,S.,Beak,T.,Kim,Y.andYoo,K.(2016),âJournalofresearchininteractivemarketingâ,Journalof
+ResearchinInteractiveMarketing,Vol.10No.3,pp.177-192.
+Klopping,I.M.andMcKinney,E.(2004),âExtendingthetechnologyacceptancemodelandthetaskâ
+technologyfitmodeltoconsumere-commerceâ,Spring,Vol.22No.1,pp.35-48.
+Komiak, S.X. and Benbasat, I. (2003), âUnderstanding customer trust in agent-mediated electronic
+commerce, web-mediated electronic commerce, and traditional commerceâ, Information
+TechnologyandManagement,Vol.5Nos1/2,pp.181-207.
+Kuo, C.M., Chen, L.C. and Tseng, C.Y. (2017), âInvestigating an innovative service with hospitality
+robotsâ, International Journal of Contemporary Hospitality Management, Vol. 29 No. 5,
+pp.1305-1321.
+Lai, Y., Sun, H. and Ren, J. (2018), âArticle information: adoption in logistics and supply chain
+management:anempiricalâ,TheInternationalJournalofLogisticsManagement,Vol.29No.2,
+pp.676-703.
+Lam, S.Y., Chiang, J. and Parshuraman, A. (2008), âThe effects of the dimensions of technology
+acceptance:anempiricalanalysisâ,JournalofInteractiveMarketing,Vol.22No.4,pp.19-39.IJCHM Law, R., Leung, D. and Chan, I.C.C. (2019), âProgression and development of information and
+communication technology research in hospitality and tourism: a state-of-the-art reviewâ,
+InternationalJournalofContemporaryHospitalityManagement,Vol.32No.2,pp.511-534.
+Lee, L.Y. (2013), âHospitality industry web-based self-service technology adoption model: a cross-
+culturalperspectiveâ,JournalofHospitalityandTourismResearch,Vol.40No.2,pp.1-36.
+Lee, W.H., Lin, C.W. and Shih, K.H. (2017), âA technology acceptance model for the perception of
+restaurantservicerobotsfortrust,interactivity,andoutputqualityâ,InternationalJournalof
+MobileCommunications,Vol.16No.4,pp.361-376.
+Leue,M.C.,Jung,T.andDieck,D.T.(2014),âAtheoreticalmodelofaugmentedrealityacceptanceâ,E-
+ReviewofTourismResearch,Vol.5,pp.1-6.
+Lin,J.C.C.(2007),âOnlinestickiness:itsantecedentsandeffectonpurchasingintentionâ,Behaviourand
+InformationTechnology,Vol.26No.6,pp.507-516.
+Lin,T.C.andHuang,C.C.(2008),âUnderstandingknowledgemanagementsystemusageantecedents:
+anintegrationofsocialcognitivetheoryandtasktechnologyfitâ,InformationandManagement,
+Vol.45No.6,pp.410-417.
+Litvin,S.W.,Goldsmith,R.E.andPan,B.(2018),âElectronicword-of-mouthinhospitalityandtourism
+managementâ,InternationalJournalofContemporaryHospitalityManagement,Vol.30No.1,
+pp.313-325.
+Lu,L.,Cai,R.andGursoy,D.(2019),âDevelopingandvalidatingaservicerobotintegrationwillingness
+scaleâ,InternationalJournalofHospitalityManagement,Vol.80,pp.36-51.
+Luo,M.M.,Remus,W.andSheldon,P.J.(2008),âTechnologyacceptanceofthelonelyplanetwebsite:an
+exploratorystudyâ,InformationTechnologyandTourism,Vol.9No.2,pp.67-78.
+Luque-MartÃ­nez, T., CastaÃ±eda-GarcÃ­a, A.J., FrÃ­as-Jamilena, D.M., MuÃ±oz-Leiva, F. and RodrÃ­guez-
+Molina,M.(2007),âDeterminantsoftheuseoftheinternetasatouristinformationsourceâ,The
+ServiceIndustriesJournal,Vol.27No.7,pp.881-891.
+McGinn, C., Bourke, E., Murtagh, A., Donovan, C. and Cullinan, M.F. (2019), âMeeting Stevie:
+perceptionsofasociallyassistiverobotbyresidentsandstaffinalong-termcarefacilityâ,4th
+ACM/IEEEInternationalConferenceonHuman-RobotInteraction(HRI),IEEE,pp.602-603.
+McLean,G.,Osei-Frimpong,K.,Wilson,A.andPitardi,V.(2020),âHowlivechatassistantsdrivetravel
+consumersâ attitudes, trust and purchase intentions: the role of human touchâ, International
+JournalofContemporaryHospitalityManagement,Vol.32No.5,pp.1795-1812.
+Ma,S.,Zhang,S.,Li,G.andWu,Y.(2019),âExploringinformationsecurityeducationonsocialmedia
+use:perspectiveofusesandgratificationstheoryâ,AslibJournalofInformationManagement,
+Vol.71No.5,pp.618-636.
+Mangno, F., Cassia, F. and Bruni, A. (2016), âAdoption and impact of marketing performance
+assessmentsystemsamongtravelagenciesâ,InternationalJournalofContemporaryHospitality
+Management,Vol.29No.4,pp.1-21.
+Mani,Z.andChouk,I.(2018),âConsumerresistancetoinnovationinservices:challengesandbarriersin
+theinternetofthingseraâ,JournalofProductInnovationManagement,Vol.35No.5,pp.780-807.
+Maciag,G.A.(2000),âWebportalsusherin,driveawaybusinessâ,NationalUnderwriter/Propertyand
+CasualtyRiskandBenefits,Vol.104No.50,pp.19-20.
+Mariani,M.andBaggio,R.(2020),âTherelevanceofmixedmethodsfornetworkanalysisintourism
+and hospitality researchâ, International Journal of Contemporary Hospitality Management,
+Vol.32No.4,pp.1643-1673.
+Martins, C., Oliveira, T. and Popovi(cid:3)c, A. (2014), âUnderstanding the internet banking adoption: a
+unifiedtheoryofacceptanceanduseoftechnologyandperceivedriskapplicationâ,International
+JournalofInformationManagement,Vol.34No.1,pp.1-13.
+Mayer, R.C.,Davis,J.H.andSchoorman, F.D.(1995), âAnintegratedmodeloforganizationaltrustâ,
+AcademyofManagementReview,Vol.20No.3,pp.709-734.Mende,M., Scott,M.L.,vanDoorn,J.,Grewal,D.andShanks, I.(2019),âServicerobots rising:how Chatbotsfor
+humanoidrobotsinfluenceserviceexperiencesandelicitcompensatoryconsumerresponsesâ,
+hospitalityand
+JournalofMarketingResearch,Vol.56No.4,pp.535-556.
+tourism
+Meuter,M.L.,Bitner,M.J.,Ostrom,A.L.andBrown,S.W.(2005),âChoosingamongalternativeservice
+delivery modes: an investigation of customer trial of self-service technologiesâ, Journal of
+Marketing,Vol.69No.2,pp.61-83.
+Meuter,M.L.,Ostrom,A.L.,Bitner,M.J.andRoundtree,R.(2003),âTheinfluenceoftechnologyanxiety
+onconsumeruseandexperienceswithself-servicetechnologiesâ,JournalofBusinessResearch,
+Vol.56No.11,pp.899-906.
+Mirnig,N.,Stollnberger,G.,Miksch,M.,Stadler,S.,Giuliani,M.andTscheligi,M.(2017),âToerris
+robot:howhumans assess andacttowardanerroneoussocialrobotâ, Frontiers RoboticsAI,
+Vol.4,pp.1-15.
+Mori,M.(1970),âTheuncannyvalleyâ,Energy,Vol.4No.7,pp.33-35.
+Morosan, C. and DeFranco, A. (2019), âCo-creation of value using hotel interactive technologies:
+examining intentions and conversionâ, International Journal of Contemporary Hospitality
+Management,Vol.31No.3,pp.1183-1204.
+Moussawi, S. and Koufaris, M. (2019), âPerceived intelligence and perceived anthropomorphism of
+personal intelligent agents: scale development and validationâ, Proceedings of the 52nd HI
+InternationalConferenceonSystemSciences,UniversityofHI,HI,pp.115-124.
+Moussawi, S., Koufaris, M. and Benbunan-Fich, R. (2020), âHow perceptions of intelligence and
+anthropomorphismaffectadoptionofpersonalintelligentagentsâ,ElectronicMarkets,Vol.30
+No.1,pp.1-10.
+Murphy,J.,Gretzel,U.andPesonen,J.(2019),âMarketingrobotservicesinhospitalityandtourism:the
+roleofanthropomorphismâ,JournalofTravelandTourismMarketing,Vol.36No.7,pp.784-795.
+Nunnally,J.(1978),PsychometricTheory,2ndedition,McGraw-Hill,NewYork,NY.
+Oh,H.,Jeong,M.andBaloglu,S.(2013),âTouristsâadoptionofself-servicetechnologiesatresorthotelsâ,
+JournalofBusinessResearch,Vol.66No.6,pp.692-699.
+Pan, L. Ruan, A. and Zhang, W. (2017), âUser adoption intention of the tourism APP based on
+experimentalmethodâ,DEStechTransactionsonEnvironment,EnergyandEarthSciences,dpi-
+proceedings.com,pp.271-276.
+Parasuraman,A.(2000),âTechnologyreadinessindex(tri):amultiple-itemscaletomeasurereadiness
+toembracenewtechnologiesâ,JournalofServiceResearch,Vol.2No.4,pp.307-320.
+Park,Y.A.andGretzel,U.(2007),âEvaluationofemergingtechnologiesintourism:thecaseoftravel
+searchenginesâ,InformationandCommunicationTechnologiesinTourism,Springer,Vienna,
+pp.371-382.
+Petisca, S., Dias, J.and Palva, A. (2015), âMore socialand emotional behaviourmaylead topoorer
+perceptionsofasocialrobotâ,InInternationalConferenceonSocialRobotics,Springer,Cham,
+pp.522-531.
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P. (2003), âCommon method biases in
+behavioralresearch:acriticalreviewoftheliteratureandrecommendedremediesâ,Journalof
+AppliedPsychology,Vol.88No.5,pp.879-903.
+Ponte,E.B.,Carvajal-Trujillo,E.andEscobar-RodrÃ­guez,T.(2015),âInfluenceoftrustandperceived
+valueontheintentiontopurchasetravelonline:integratingtheeffectsofassuranceontrust
+antecedentsâ,TourismManagement,Vol.47,pp.286-302.
+Racherla,P.,Furner,C.andBabb,J.(2012),âConceptualizingtheimplicationsofmobileappusageand
+stickiness:aresearchagendaâ,SSRNElectronicJournal,Vol.1,pp.1-43.
+Rajan, K. and Saffiotti, A. (2017), âTowards a science of integrated AI and roboticsâ, Artificial
+Intelligence,Vol.247,pp.1-9.IJCHM Ramachandran,A.(2018),âUseradoptionofchatbotsâ,SSRN.Com,pp.1-14.
+Rau, P.L.P., Li, Y. and Li, D. (2010), âA cross-cultural study: effect of robot appearance and taskâ,
+InternationalJournalofSocialRobotics,Vol.2No.2,pp.175-186.
+Rietz,T.,Benke,I.andMaedche,A.(2019),âTheimpactofanthropomorphicandfunctionalchatbot
+design features in enterprise collaboration systems on user acceptanceâ, 14th International
+Conference on Wirtschaftsinformatik14th International Conference on Wirtschaftsinformatik,
+Vol.57,Siegen,pp.1642-1656.
+Ringle,C.M.Wende,S.andWill,A.(2005),âSmartPLS2.0â,availableat:www.smartpls.com/
+Rosenthal-von der PÃ¼tten, A.M., Bock, N. and Brockmann, K. (2017), âNot your cup of tea? How
+interactingwitharobotcanincreaseperceivedself-efficacyinHRIandevaluationâ,ACM/IEEE
+InternationalConferenceonHuman-RobotInteraction,ACM,Duisburg,pp.483-492.
+Roy, M.C., Dewit, O. and Aubert, B.A. (2001), âThe impact of interface usability on trust in web
+retailersâ,InternetResearch,Vol.11No.5,pp.388-398.
+Ruijten, P.A.M., Haans, A., Ham, J. and Midden, C.J.H. (2019), âPerceived human-likeness of social
+robots:testingtheRaschmodelasamethodformeasuringanthropomorphismâ,International
+JournalofSocialRobotics,Vol.11No.3,pp.477-494.
+Ryan,C.andRao,U.(2008),âHolidayusersoftheInternetâeaseofuse,functionalityandnoveltyâ,
+InternationalJournalofTourismResearch,Vol.10No.4,pp.329-339.
+SAP (2018), âBuilding your own chatbot with SAP conversational AIâ, available at: https://
+assets.dm.ux.sap.com/desapusergroupsknowledgetransfer/2019/pdfs/19\_03\_12\_how\_to\_
+build\_your\_own\_chatbot\_with\_sap\_leonardo\_conversational\_ai.pdf
+Saunders, M.N.K. and Townsend, K. (2016), âReporting and justifying the number of interview
+participantsinorganizationandworkplaceresearchâ,BritishJournalofManagement,Vol.27
+No.4,pp.836-852.
+Seilov,G.A.(2015),âDoestheadoptionofcustomerandcompetitororientationsmakesmallhospitality
+businesses more entrepreneurial? Evidence from Kazakhstanâ, International Journal of
+ContemporaryHospitalityManagement,Vol.27No.1,pp.71-86.
+Sheehan,B.T.(2018),CustomerServiceChatbots:Anthropomorphism,AdoptionandWordofMouth,
+QueenslandUniversityofTechnology,availableat:http://arxiv.org/abs/1704.04579
+Sivathanu,B.(2019),âAdoptionofdigitalpaymentsystemsintheeraofdemonetizationinIndia:an
+empirical studyâ, Journal of Science and Technology Policy Management, Vol. 10 No. 1,
+pp.143-171.
+Stadler,S.,Weiss,A.andTscheligi,M.(2014),âItrainedthisrobot:theimpactofpre-experienceand
+execution behavior on robot teachersâ, in Society, I.R.A. (Ed.), The 23rd IEEE International
+SymposiumonRobotandHumanInteractiveCommunication,Edinburgh,pp.1030-1036.
+Stark,J.,Mota,R.R.C.andSharlin,E.(2018),âPersonalspaceintrusioninhuman-robotcollaborationâ,
+HRIâ18Companion,ACM,Chicago,pp.245-246.
+Stewart,I.(2009),âDaisy,daisy,givemeyouranswer,doâ,ScientificAmerican,Vol.272No.1,pp.96-99.
+Sweezey,M.(2018),âThevalueofchatbotsfortodayâsconsumersâ,Forbes.Com,availableat:www.
+forbes.com/sites/forbescommunicationscouncil/2018/02/13/the-value-of-chatbots-for-todays-
+consumers/#5c0669cd2918
+Tom,D.,Jung,T.,Kim,W.andMoon,Y.(2017),âHotelguestsâsocialmediaacceptanceinluxuryhotelsâ,
+InternationalJournalofContemporaryHospitalityManagement,Vol.29No.1,pp.530-550.
+Tomhawk (2017), âChatbots: the future of travelâ, Tomahawktourism.Com, available at: www.
+tomahawktourism.com/blog/post-126
+Tsou, H.T. and Hsu, S.H.Y. (2015), âPerformance effects of technology-organization-environment
+openness, service co-production, and digital-resource readiness: the case of the IT industryâ,
+InternationalJournalofInformationManagement,Vol.35No.1,pp.1-14.Tung,V.W.S.andLaw,R.(2017),âThepotentialfortourismandhospitalityexperienceresearchin Chatbotsfor
+human-robot interactionsâ, International Journal of Contemporary Hospitality Management, hospitalityand
+Vol.29No.10,pp.2498-2513.
+tourism
+Tussyadiah,I.P.(2016),âTheperceivedsocialrolesofmobilephonesintravelâ,TravelandTourism
+ResearchAssociation:AdvancingTourismResearchGlobally,UniversityofMAAmherst,Vail,
+CO,p.44.
+Tussyadiah, I. (2020), âA review of research into automation in tourism: launching the annals of
+tourismresearchcuratedcollectiononartificialintelligenceandroboticsintourismâ,Annalsof
+TourismResearch,Vol.81,p.102883.
+Tussyadiah, I.P. and Fesenmaier, D.R. (2009), âMediating tourist experiences. Access to places via
+sharedvideosâ,AnnalsofTourismResearch,Vol.36No.1,pp.24-40.
+Tussyadiah,I.P.andPark,S.(2018),âConsumerevaluationofhotelservicerobotsâ,Informationand
+CommunicationTechnologiesinTourism,Springer,Cham,pp.308-320.
+Ukpabi, D., Karjaluoto, H., Olaleye, S.A. and Mogaji, E. (2018), âDual perspectives on the role of
+artificiallyintelligentroboticvirtualagentsinthetourism,travelandhospitalityindustriesâ,
+Proceedings of the 11th Annual Conference of the EuroMed Academy of Business (EMAB),
+EuroMedPress,Valletta,Malta,pp.1339-1351.
+VanDoorn,J.,Mende,M.,Noble,S.M.,Hulland,J.,Ostrom,A.L.,Grewal,D.andPetersen,J.A.(2017),
+âDomoarigatoMrRoboto:emergenceofautomatedsocialpresenceinorganizationalfrontlines
+andcustomersâserviceexperiencesâ,JournalofServiceResearch,Vol.20No.1,pp.43-58.
+Venkatesh,V.(2000),âDeterminantsofperceivedeaseofuse:integratingcontrol,intrinsicmotivation,
+and emotion into the technology acceptance modelâ, Information Systems Research, Vol. 11
+No.4,pp.342-365.
+Venkatesh, V., Morris, M.G., Davis, G.B. and Davis, F.D. (2003), âUser acceptance of information
+technology:towardaunifiedviewâ,MISQuarterly,Vol.27No.3,pp.425-478.
+Wang,Y.Y.,Wang,Y.S.andLin,T.C.(2018),âDevelopingandvalidatingatechnologyupgrademodelâ,
+InternationalJournalofInformationManagement,Vol.38No.1,pp.7-26.
+Warner,R.M.andSugarman,D.B.(1986),âAttributionsofpersonalitybasedonphysicalappearance,
+speech, and handwritingâ, Journal of Personality and Social Psychology, Vol. 50 No. 4,
+pp.792-799.
+Wei,J.,Vinnikova,A.,Lu,L.andXu,J.(2020),âUnderstandingandpredictingtheadoptionoffitness
+mobileapps:evidencefromChinaâ,HealthCommunication,Vol.36No.6,pp.1-12.
+Weiss,A.andBartneck,C.(2015),âMeta-analysisoftheusageoftheGodspeedquestionnaireseriesâ,
+Proceedings of the IEEE International Symposium on Robot and Human Interactive
+Communication,Kobe,pp.381-388.
+Werner,K.,Oberzaucher,J.andWerner,F.(2012),âEvaluationofhuman-robotinteractionfactorsofa
+socially assistive robot together with older peopleâ, Proceedings â 2012 Sixth International
+ConferenceonComplex,Intelligent,andSoftwareIntensiveSystems,IEEE,Palermo,pp.455-460.
+Willemse,C.andWykowska,A.(2019),âInnaturalinteractionwithembodiedrobots,wepreferitwhen
+theyfollowourgaze:agaze-contingentmobileeyetrackingstudyâ,PhilosophicalTransactionsof
+theRoyalSocietyB:BiologicalSciences,Vol.374No.1771,pp.20180036.
+xcubelabs (2017), â5 ways chatbots are changing the face of travel industryâ, available at: www.
+xcubelabs.com/blog/chatbots-travel-industry/
+Yagoda,R.E.andGillan,D.J.(2012),âYouwantmetotrustaROBOT?Thedevelopmentofahuman-
+robotinteractiontrustscaleâ,InternationalJournalofSocialRobotics,Vol.4No.3,pp.235-248.
+Yeoman,I.andMars,M.(2012),âRobots,menandsextourismâ,Futures,Vol.44No.4,pp.365-371.
+You,S.,Kim,J.-H.,Lee,S.,Kamat,V.andRobert,L.P.(2018),âEnhancingperceivedsafetyinhuman-
+robot collaborative construction using immersive virtual environmentsâ, Automation in
+Construction,Vol.96,pp.161-170.IJCHM Yu,C.E.(2020),âHumanlikerobotsasemployeesinthehotelindustry:thematiccontentanalysisof
+onlinereviewsâ,JournalofHospitalityMarketingandManagement,Vol.29No.1,pp.22-38.
+Zarouali,B.,Broeck,E.,VanDen,Walrave,M.andPoels,K.(2018),âPredictingconsumerresponsestoa
+chatbot on Facebookâ, Cyberpsychology, Behavior, and Social Networking, Vol. 21 No. 8,
+pp.491-497.
+Zhang, T.,Tao, D.,Qu,X.,Zhang,X.,Lin, R. and Zhang, W.(2019), âTherolesofinitialtrustand
+perceivedriskinpublicâsacceptanceofautomatedvehiclesâ,TransportationResearchPartC:
+EmergingTechnologies,Vol.98,pp.207-220.
+Zhou,T.,Lu,Y.andWang,B.(2010),âIntegratingTTFandUTAUTtoexplainmobilebankinguser
+adoptionâ,ComputersinHumanBehavior,Vol.26No.4,pp.760-767.
+Correspondingauthor
+RajasshriePillaicanbecontactedat:rajasshrie1@gmail.com
+Forinstructionsonhowtoorderreprintsofthisarticle,pleasevisitourwebsite:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Orcontactusforfurtherdetails:permissions@emeraldinsight.com
